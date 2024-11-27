@@ -1,0 +1,894 @@
+startDate,endDate,activityType,duration,durationUnit,totalEnergyBurned,totalDistance,HKTimeZone,HKWeatherTemperature,HKAverageMETs,HKWeatherHumidity
+2020-01-02 19:07:35 +0000,2020-01-02 19:54:24 +0000,TraditionalStrengthTraining,2808.91798,sec,507.866 kcal,,America/New_York,51 degF,8.799,5000
+2020-01-08 22:09:46 +0000,2020-01-08 23:21:25 +0000,TraditionalStrengthTraining,4298.809736,sec,800.252 kcal,,America/New_York,53 degF,9.07167,3000
+2020-01-11 00:59:26 +0000,2020-01-11 01:01:47 +0000,TraditionalStrengthTraining,140.957251,sec,10.2809 kcal,,America/New_York,50 degF,2.76066,8100
+2020-01-12 19:24:57 +0000,2020-01-12 20:18:07 +0000,TraditionalStrengthTraining,3190.538178,sec,746.908 kcal,,America/New_York,70 degF,11.2392,4900
+2020-01-19 21:01:22 +0000,2020-01-19 21:12:19 +0000,TraditionalStrengthTraining,656.384236,sec,94.0737 kcal,,America/New_York,49 degF,6.54098,2900
+2020-01-22 22:01:39 +0000,2020-01-22 22:59:14 +0000,TraditionalStrengthTraining,3454.704388,sec,737.349 kcal,,America/New_York,40 degF,10.41,3300
+2020-02-09 17:14:49 +0000,2020-02-09 18:10:54 +0000,TraditionalStrengthTraining,3364.484733,sec,632.974 kcal,,America/New_York,48 degF,9.16067,4500
+2020-02-13 22:31:31 +0000,2020-02-13 23:02:54 +0000,TraditionalStrengthTraining,1883.490472,sec,282.433 kcal,,America/New_York,62 degF,6.98039,8400
+2020-02-23 19:11:42 +0000,2020-02-23 19:23:20 +0000,TraditionalStrengthTraining,697.730631,sec,166.598 kcal,,America/New_York,60 degF,11.6429,2700
+2020-03-01 19:24:24 +0000,2020-03-01 19:58:06 +0000,TraditionalStrengthTraining,2021.912861,sec,283.771 kcal,,America/New_York,55 degF,6.01583,2000
+2020-03-04 22:35:51 +0000,2020-03-04 23:26:31 +0000,TraditionalStrengthTraining,3039.452051,sec,508.696 kcal,,America/New_York,58 degF,8.00512,3400
+2020-06-20 21:50:11 +0000,2020-06-20 21:56:38 +0000,TraditionalStrengthTraining,387.5356231,sec,61.7097 kcal,,America/New_York,81 degF,7.88961,5900
+2020-09-15 00:34:25 +0000,2020-09-15 00:51:13 +0000,TraditionalStrengthTraining,1008.341631,sec,148.826 kcal,,America/New_York,70 degF,6.59425,8500
+2020-09-18 01:32:01 +0000,2020-09-18 01:59:33 +0000,TraditionalStrengthTraining,1651.996138,sec,224.323 kcal,,America/New_York,64.4 degF,5.85569,9800
+2020-09-22 19:03:01 +0000,2020-09-22 19:12:16 +0000,TraditionalStrengthTraining,364.3976641,sec,49.5848 kcal,,America/New_York,68 degF,4.8968,4700
+2020-10-06 20:34:46 +0000,2020-10-06 21:23:59 +0000,TraditionalStrengthTraining,2953.503009,sec,427.447 kcal,,America/New_York,73.4 degF,6.30974,5100
+2020-10-09 19:19:06 +0000,2020-10-09 19:20:27 +0000,TraditionalStrengthTraining,80.91777504,sec,11.0272 kcal,,America/New_York,69.8 degF,7.35702,6200
+2020-10-13 02:53:13 +0000,2020-10-13 03:04:05 +0000,TraditionalStrengthTraining,652.367244,sec,123.769 kcal,,America/New_York,64.4 degF,9.42092,9700
+2020-10-21 00:01:30 +0000,2020-10-21 00:29:38 +0000,TraditionalStrengthTraining,1687.673531,sec,320.548 kcal,,America/New_York,62.6 degF,9.38163,8700
+2020-10-21 18:52:55 +0000,2020-10-21 19:30:51 +0000,TraditionalStrengthTraining,2275.802245,sec,373.148 kcal,,America/New_York,78.8 degF,7.46231,6000
+2020-10-25 00:58:16 +0000,2020-10-25 01:22:27 +0000,TraditionalStrengthTraining,1450.742923,sec,240.513 kcal,,America/New_York,69.8 degF,7.9329,8300
+2020-10-27 20:46:17 +0000,2020-10-27 21:24:29 +0000,TraditionalStrengthTraining,2291.072675,sec,380.266 kcal,,America/New_York,69.8 degF,7.73463,7400
+2020-10-31 01:49:36 +0000,2020-10-31 02:25:24 +0000,TraditionalStrengthTraining,2023.691131,sec,273.531 kcal,,America/New_York,48.2 degF,5.67939,6000
+2020-10-31 17:24:11 +0000,2020-10-31 17:51:32 +0000,TraditionalStrengthTraining,1641.391616,sec,289.28 kcal,,America/New_York,53.6 degF,8.48656,5400
+2020-11-02 02:30:33 +0000,2020-11-02 02:53:11 +0000,TraditionalStrengthTraining,1357.889894,sec,191.985 kcal,,America/New_York,53.6 degF,6.4295,3000
+2020-11-04 01:31:37 +0000,2020-11-04 02:02:00 +0000,TraditionalStrengthTraining,1823.131451,sec,339.876 kcal,,America/New_York,44.6 degF,9.27341,6900
+2020-11-05 00:51:53 +0000,2020-11-05 01:09:42 +0000,TraditionalStrengthTraining,1069.074149,sec,190.884 kcal,,America/New_York,48.2 degF,8.84416,6800
+2020-11-05 21:34:52 +0000,2020-11-05 22:01:04 +0000,TraditionalStrengthTraining,1572.282956,sec,240.815 kcal,,America/New_York,66.2 degF,6.96734,4700
+2020-11-08 21:18:16 +0000,2020-11-08 21:44:06 +0000,TraditionalStrengthTraining,1550.369989,sec,247.365 kcal,,America/New_York,71.6 degF,7.3297,6000
+2020-11-11 02:36:42 +0000,2020-11-11 02:51:24 +0000,TraditionalStrengthTraining,881.726464,sec,107.583 kcal,,America/New_York,64.4 degF,5.07162,9800
+2020-11-11 03:06:22 +0000,2020-11-11 03:42:03 +0000,TraditionalStrengthTraining,2141.226594,sec,415.613 kcal,,America/New_York,64.4 degF,9.43047,9900
+2020-11-12 01:44:59 +0000,2020-11-12 02:12:41 +0000,TraditionalStrengthTraining,1662.192891,sec,313.216 kcal,,America/New_York,69.8 degF,9.03499,10000
+2020-11-12 21:07:52 +0000,2020-11-12 21:46:56 +0000,TraditionalStrengthTraining,2343.994362,sec,339.717 kcal,,America/New_York,64.4 degF,6.58201,9700
+2020-11-14 21:22:23 +0000,2020-11-14 21:58:57 +0000,TraditionalStrengthTraining,2194.206082,sec,375.926 kcal,,America/New_York,62.6 degF,8.16991,4800
+2020-11-15 22:01:43 +0000,2020-11-15 22:51:25 +0000,TraditionalStrengthTraining,2981.515776,sec,484.876 kcal,,America/New_York,69.8 degF,7.47129,6900
+2020-11-16 21:09:48 +0000,2020-11-16 21:50:23 +0000,TraditionalStrengthTraining,2434.369666,sec,456.649 kcal,,America/New_York,59 degF,9.05608,2400
+2020-11-17 22:08:13 +0000,2020-11-17 23:01:35 +0000,TraditionalStrengthTraining,3201.583552,sec,636.902 kcal,,America/New_York,51.8 degF,9.59053,2900
+2020-11-19 16:35:12 +0000,2020-11-19 17:16:07 +0000,TraditionalStrengthTraining,2455.380796,sec,331.248 kcal,,America/New_York,50 degF,5.73689,3900
+2020-11-22 01:20:17 +0000,2020-11-22 02:01:06 +0000,TraditionalStrengthTraining,2448.786401,sec,467.861 kcal,,America/New_York,51.8 degF,9.13329,8300
+2020-11-23 21:19:53 +0000,2020-11-23 21:56:06 +0000,TraditionalStrengthTraining,2173.370525,sec,365.031 kcal,,America/New_York,53.6 degF,7.94219,3300
+2020-12-01 02:34:04 +0000,2020-12-01 02:56:21 +0000,TraditionalStrengthTraining,1337.731308,sec,240.599 kcal,,America/New_York,44.6 degF,8.63464,6000
+2020-12-03 02:13:11 +0000,2020-12-03 02:45:38 +0000,TraditionalStrengthTraining,1946.992177,sec,263.573 kcal,,America/New_York,33.8 degF,5.99434,5600
+2020-12-04 21:07:44 +0000,2020-12-04 21:53:01 +0000,TraditionalStrengthTraining,2716.656894,sec,452.404 kcal,,America/New_York,55.4 degF,7.88944,7600
+2020-12-07 02:04:23 +0000,2020-12-07 02:24:14 +0000,TraditionalStrengthTraining,1190.616578,sec,194.629 kcal,,America/New_York,39.2 degF,7.69192,8500
+2020-12-08 21:32:51 +0000,2020-12-08 22:07:02 +0000,TraditionalStrengthTraining,2051.652205,sec,363.791 kcal,,America/New_York,42.8 degF,8.57897,4200
+2020-12-10 01:43:39 +0000,2020-12-10 02:08:32 +0000,TraditionalStrengthTraining,1489.942448,sec,246.04 kcal,,America/New_York,42.8 degF,7.97103,5600
+2020-12-14 21:18:31 +0000,2020-12-14 21:47:43 +0000,TraditionalStrengthTraining,1752.060331,sec,286.76 kcal,,America/New_York,48.2 degF,7.62185,6300
+2020-12-17 01:28:51 +0000,2020-12-17 01:46:10 +0000,TraditionalStrengthTraining,1038.90449,sec,207.762 kcal,,America/New_York,33.8 degF,9.87395,9600
+2020-12-22 21:27:57 +0000,2020-12-22 22:02:54 +0000,TraditionalStrengthTraining,2097.495757,sec,401.444 kcal,,America/New_York,51.8 degF,9.42385,3300
+2020-12-28 03:18:17 +0000,2020-12-28 03:35:12 +0000,TraditionalStrengthTraining,1015.243312,sec,194.229 kcal,,America/New_York,32 degF,8.91315,7600
+2021-01-03 01:23:52 +0000,2021-01-03 02:08:38 +0000,TraditionalStrengthTraining,2685.551191,sec,443.189 kcal,,America/New_York,46.4 degF,7.89431,9800
+2021-01-06 01:49:41 +0000,2021-01-06 02:24:05 +0000,TraditionalStrengthTraining,2064.081145,sec,368.697 kcal,,America/New_York,44.6 degF,8.74155,6500
+2021-01-12 20:55:51 +0000,2021-01-12 21:24:36 +0000,TraditionalStrengthTraining,1725.012861,sec,291.542 kcal,,America/New_York,53.6 degF,8.0032,5000
+2021-01-17 20:47:12 +0000,2021-01-17 21:33:05 +0000,TraditionalStrengthTraining,2753.272712,sec,502.051 kcal,,America/New_York,46.4 degF,8.99261,4300
+2021-01-18 19:58:57 +0000,2021-01-18 20:59:03 +0000,TraditionalStrengthTraining,3606.551331,sec,570.048 kcal,,America/New_York,44.6 degF,7.42339,3900
+2021-01-19 20:27:09 +0000,2021-01-19 21:15:28 +0000,TraditionalStrengthTraining,2898.711572,sec,467.258 kcal,,America/New_York,53.6 degF,7.74189,3500
+2021-01-19 21:31:20 +0000,2021-01-19 21:37:10 +0000,TraditionalStrengthTraining,349.966766,sec,76.84 kcal,,America/New_York,53.6 degF,10.9277,3700
+2021-01-21 20:53:43 +0000,2021-01-21 21:24:50 +0000,TraditionalStrengthTraining,1867.179735,sec,268.194 kcal,,America/New_York,53.6 degF,6.67426,4300
+2021-01-22 21:21:56 +0000,2021-01-22 22:00:13 +0000,TraditionalStrengthTraining,2296.459415,sec,490.129 kcal,,America/New_York,55.4 degF,10.1883,2300
+2021-01-24 20:24:15 +0000,2021-01-24 21:17:23 +0000,TraditionalStrengthTraining,3187.248373,sec,464.68 kcal,,America/New_York,44.6 degF,6.62353,2800
+2021-01-28 01:46:22 +0000,2021-01-28 02:32:26 +0000,TraditionalStrengthTraining,2763.176627,sec,409.95 kcal,,America/New_York,44.6 degF,6.78319,8100
+2021-01-28 19:56:17 +0000,2021-01-28 20:29:30 +0000,TraditionalStrengthTraining,1993.244708,sec,394.179 kcal,,America/New_York,37.4 degF,9.69503,4700
+2021-01-28 20:33:58 +0000,2021-01-28 20:46:28 +0000,TraditionalStrengthTraining,750.4167191,sec,147.607 kcal,,America/New_York,37.4 degF,9.73376,4600
+2021-01-30 19:00:20 +0000,2021-01-30 19:27:55 +0000,TraditionalStrengthTraining,1655.718983,sec,243.297 kcal,,America/New_York,41 degF,6.71753,3600
+2021-02-04 01:36:43 +0000,2021-02-04 02:17:34 +0000,TraditionalStrengthTraining,2450.852743,sec,376.161 kcal,,America/New_York,37.4 degF,7.14822,2700
+2021-02-04 21:23:44 +0000,2021-02-04 21:47:49 +0000,TraditionalStrengthTraining,1445.226595,sec,232.712 kcal,,America/New_York,48.2 degF,7.5573,2300
+2021-02-08 17:46:54 +0000,2021-02-08 18:30:58 +0000,TraditionalStrengthTraining,2643.527373,sec,452.538 kcal,,America/New_York,44.6 degF,8.44758,4300
+2021-02-09 17:52:09 +0000,2021-02-09 18:17:54 +0000,TraditionalStrengthTraining,1545.221906,sec,276.301 kcal,,America/New_York,55.4 degF,8.59963,6600
+2021-02-10 17:48:22 +0000,2021-02-10 18:31:19 +0000,TraditionalStrengthTraining,2577.277309,sec,414.776 kcal,,America/New_York,48.2 degF,7.65449,6400
+2021-02-11 17:54:52 +0000,2021-02-11 18:08:18 +0000,TraditionalStrengthTraining,805.878976,sec,105.761 kcal,,America/New_York,46.4 degF,5.9855,8900
+2021-02-13 19:10:37 +0000,2021-02-13 20:00:10 +0000,TraditionalStrengthTraining,2972.68684,sec,444.686 kcal,,America/New_York,33.8 degF,6.89302,9200
+2021-02-14 19:21:31 +0000,2021-02-14 20:10:19 +0000,TraditionalStrengthTraining,2928.782189,sec,451.731 kcal,,America/New_York,37.4 degF,7.06874,9400
+2021-02-16 17:44:11 +0000,2021-02-16 18:19:27 +0000,TraditionalStrengthTraining,2115.57918,sec,315.533 kcal,,America/New_York,46.4 degF,6.65885,7400
+2021-02-19 21:02:57 +0000,2021-02-19 21:16:51 +0000,TraditionalStrengthTraining,833.8381029,sec,134.173 kcal,,America/New_York,46.4 degF,7.19703,5900
+2021-02-20 23:02:43 +0000,2021-02-20 23:53:28 +0000,TraditionalStrengthTraining,3045.480163,sec,576.089 kcal,,America/New_York,39.2 degF,9.22485,2800
+2021-02-26 21:09:31 +0000,2021-02-26 21:57:13 +0000,TraditionalStrengthTraining,2862.387014,sec,413.458 kcal,,America/New_York,42.8 degF,6.57468,7600
+2021-02-28 20:12:57 +0000,2021-02-28 20:56:43 +0000,TraditionalStrengthTraining,2625.949308,sec,473.87 kcal,,America/New_York,64.4 degF,8.84251,7500
+2021-03-01 13:18:46 +0000,2021-03-01 14:16:51 +0000,TraditionalStrengthTraining,3484.927581,sec,434.785 kcal,,America/New_York,57.2 degF,5.30144,9500
+2021-03-02 21:15:19 +0000,2021-03-02 21:57:51 +0000,TraditionalStrengthTraining,2552.306173,sec,392.118 kcal,,America/New_York,,7.05579,
+2021-03-06 17:03:48 +0000,2021-03-06 17:48:28 +0000,TraditionalStrengthTraining,2679.66922,sec,378.103 kcal,,America/New_York,48.2 degF,6.21319,2900
+2021-03-11 02:10:50 +0000,2021-03-11 02:41:10 +0000,TraditionalStrengthTraining,1819.512836,sec,255.089 kcal,,America/New_York,57.2 degF,6.1566,3500
+2021-03-17 16:20:49 +0000,2021-03-17 17:12:31 +0000,TraditionalStrengthTraining,3101.835583,sec,476.103 kcal,,America/New_York,46.4 degF,7.07223,8600
+2021-03-22 01:15:33 +0000,2021-03-22 02:12:57 +0000,TraditionalStrengthTraining,3443.686265,sec,351.381 kcal,,America/New_York,53.6 degF,3.62128,4100
+2021-03-22 16:27:19 +0000,2021-03-22 17:09:35 +0000,TraditionalStrengthTraining,2536.596408,sec,313.575 kcal,,America/New_York,60.8 degF,5.15118,4100
+2021-03-24 16:49:34 +0000,2021-03-24 17:25:16 +0000,TraditionalStrengthTraining,2141.330361,sec,339.322 kcal,,America/New_York,57.2 degF,7.34116,8800
+2021-04-05 02:40:00 +0000,2021-04-05 03:23:24 +0000,TraditionalStrengthTraining,2603.964818,sec,364.463 kcal,,America/New_York,55.4 degF,6.317,4200
+2021-04-07 18:49:21 +0000,2021-04-07 19:04:52 +0000,TraditionalStrengthTraining,930.4626369,sec,182.592 kcal,,America/New_York,82.4 degF,9.67868,2500
+2021-04-12 20:28:38 +0000,2021-04-12 21:31:50 +0000,TraditionalStrengthTraining,3792.201265,sec,457.232 kcal,,America/New_York,78.8 degF,4.87076,2000
+2021-04-14 14:17:06 +0000,2021-04-14 15:04:07 +0000,TraditionalStrengthTraining,2821.078113,sec,458.756 kcal,,America/New_York,66.2 degF,7.66239,5400
+2021-04-16 01:09:43 +0000,2021-04-16 02:12:44 +0000,TraditionalStrengthTraining,3780.827858,sec,698.523 kcal,,America/New_York,57.2 degF,8.92351,3800
+2021-04-17 17:23:49 +0000,2021-04-17 18:26:34 +0000,TraditionalStrengthTraining,3765.463363,sec,724.601 kcal,,America/New_York,64.4 degF,9.16527,3400
+2021-04-20 01:02:09 +0000,2021-04-20 02:12:59 +0000,TraditionalStrengthTraining,4250.650526,sec,783.346 kcal,,America/New_York,55.4 degF,8.67541,5500
+2021-04-23 01:12:38 +0000,2021-04-23 02:15:16 +0000,TraditionalStrengthTraining,3758.032102,sec,835.538 kcal,,America/New_York,46.4 degF,10.6954,4100
+2021-04-27 00:57:46 +0000,2021-04-27 01:58:15 +0000,TraditionalStrengthTraining,3629.860768,sec,480.307 kcal,,America/New_York,62.6 degF,5.50023,4700
+2021-04-27 15:54:16 +0000,2021-04-27 16:54:59 +0000,TraditionalStrengthTraining,3643.399157,sec,590.176 kcal,,America/New_York,75.2 degF,7.33706,4300
+2021-04-30 01:02:44 +0000,2021-04-30 02:14:17 +0000,TraditionalStrengthTraining,4293.973726,sec,807.513 kcal,,America/New_York,75.2 degF,8.90276,5100
+2021-05-02 21:12:09 +0000,2021-05-02 22:17:47 +0000,TraditionalStrengthTraining,3937.405922,sec,921.631 kcal,,America/New_York,78.8 degF,11.3009,3600
+2021-05-07 01:00:32 +0000,2021-05-07 01:54:35 +0000,TraditionalStrengthTraining,3243.592892,sec,580.817 kcal,,America/New_York,60.8 degF,8.45463,5700
+2021-05-09 19:50:56 +0000,2021-05-09 20:57:35 +0000,TraditionalStrengthTraining,3998.888867,sec,748.296 kcal,,America/New_York,78.8 degF,8.86343,3300
+2021-05-12 00:38:16 +0000,2021-05-12 01:40:59 +0000,TraditionalStrengthTraining,3762.691744,sec,660.162 kcal,,America/New_York,60.8 degF,8.15001,6300
+2021-05-15 20:30:21 +0000,2021-05-15 21:22:00 +0000,TraditionalStrengthTraining,3099.396064,sec,534.198 kcal,,America/New_York,71.6 degF,8.17444,2400
+2021-05-25 17:43:43 +0000,2021-05-25 18:27:35 +0000,TraditionalStrengthTraining,2631.961708,sec,486.368 kcal,,America/New_York,80.6 degF,9.04297,6000
+2021-05-29 18:07:51 +0000,2021-05-29 19:08:57 +0000,TraditionalStrengthTraining,3665.920639,sec,582.387 kcal,,America/New_York,75.2 degF,7.55002,6100
+2021-06-02 19:17:00 +0000,2021-06-02 20:07:31 +0000,TraditionalStrengthTraining,3030.113861,sec,352.573 kcal,,America/New_York,75.2 degF,4.70613,6900
+2021-06-11 19:09:27 +0000,2021-06-11 20:04:22 +0000,TraditionalStrengthTraining,3294.27832,sec,673.385 kcal,,America/New_York,75.2 degF,9.90246,8100
+2021-06-12 18:05:54 +0000,2021-06-12 19:07:06 +0000,TraditionalStrengthTraining,3672.371464,sec,587.916 kcal,,America/New_York,75.2 degF,7.47789,7400
+2021-06-26 19:33:07 +0000,2021-06-26 19:39:23 +0000,TraditionalStrengthTraining,375.683475,sec,34.9546 kcal,,America/New_York,84.2 degF,3.522,5500
+2021-06-27 20:17:53 +0000,2021-06-27 21:09:32 +0000,TraditionalStrengthTraining,3098.232882,sec,651.606 kcal,,America/New_York,87.8 degF,10.2646,4800
+2021-06-29 00:17:45 +0000,2021-06-29 01:10:43 +0000,TraditionalStrengthTraining,3177.790113,sec,456.383 kcal,,America/New_York,80.6 degF,6.5743,6100
+2021-06-29 20:28:38 +0000,2021-06-29 21:17:11 +0000,TraditionalStrengthTraining,2913.239666,sec,448.236 kcal,,America/New_York,87.8 degF,7.23576,4700
+2021-06-30 16:11:43 +0000,2021-06-30 17:05:32 +0000,TraditionalStrengthTraining,3228.835516,sec,596.033 kcal,,America/New_York,87.8 degF,8.80747,5100
+2021-07-06 14:47:00 +0000,2021-07-06 16:26:31 +0000,TraditionalStrengthTraining,5971.307009,sec,1305.08 kcal,,America/New_York,84.2 degF,10.6351,5600
+2021-07-07 13:00:48 +0000,2021-07-07 14:43:00 +0000,TraditionalStrengthTraining,6132.483647,sec,1233.78 kcal,,America/New_York,80.6 degF,9.82477,7000
+2021-07-08 15:01:20 +0000,2021-07-08 16:13:23 +0000,TraditionalStrengthTraining,4323.813619,sec,826.368 kcal,,America/New_York,84.2 degF,9.32411,7200
+2021-07-12 17:00:56 +0000,2021-07-12 17:46:33 +0000,TraditionalStrengthTraining,2737.230093,sec,596.457 kcal,,America/New_York,87.8 degF,10.5688,5300
+2021-07-14 15:47:46 +0000,2021-07-14 16:54:35 +0000,TraditionalStrengthTraining,4009.209245,sec,934.252 kcal,,America/New_York,84.2 degF,11.2474,5700
+2021-07-15 10:53:07 +0000,2021-07-15 12:26:08 +0000,TraditionalStrengthTraining,5581.159307,sec,993.84 kcal,,America/New_York,69.8 degF,8.58995,9800
+2021-07-16 11:38:17 +0000,2021-07-16 13:17:13 +0000,TraditionalStrengthTraining,5936.049205,sec,1176.04 kcal,,America/New_York,73.4 degF,9.52341,8900
+2021-07-17 19:41:04 +0000,2021-07-17 19:53:39 +0000,TraditionalStrengthTraining,754.543364,sec,92.6578 kcal,,America/New_York,89.6 degF,4.71158,5100
+2021-07-21 15:14:09 +0000,2021-07-21 16:22:05 +0000,TraditionalStrengthTraining,4076.038904,sec,750.62 kcal,,America/New_York,82.4 degF,8.59185,6000
+2021-07-22 21:25:28 +0000,2021-07-22 22:36:47 +0000,TraditionalStrengthTraining,4279.442288,sec,796.551 kcal,,America/New_York,82.4 degF,8.80451,4800
+2021-07-23 11:01:14 +0000,2021-07-23 12:19:23 +0000,TraditionalStrengthTraining,4688.754084,sec,1017.52 kcal,,America/New_York,64.4 degF,10.3455,9500
+2021-07-25 19:16:38 +0000,2021-07-25 20:06:30 +0000,TraditionalStrengthTraining,2992.059348,sec,445.903 kcal,,America/New_York,87.8 degF,6.74087,5900
+2021-07-28 20:11:14 +0000,2021-07-28 21:10:17 +0000,TraditionalStrengthTraining,3543.140628,sec,879.387 kcal,,America/New_York,89.6 degF,11.8868,4300
+2021-08-08 15:06:49 +0000,2021-08-08 16:12:02 +0000,TraditionalStrengthTraining,3912.815149,sec,820.464 kcal,,America/New_York,78.8 degF,10.1513,6100
+2021-08-09 17:46:36 +0000,2021-08-09 18:48:35 +0000,TraditionalStrengthTraining,3718.892823,sec,784.427 kcal,,America/New_York,84.2 degF,10.184,5800
+2021-08-10 14:07:46 +0000,2021-08-10 15:07:40 +0000,TraditionalStrengthTraining,3593.723208,sec,746.455 kcal,,America/New_York,78.8 degF,10.1565,7900
+2021-08-11 17:12:44 +0000,2021-08-11 18:26:47 +0000,TraditionalStrengthTraining,4443.530959,sec,752.324 kcal,,America/New_York,91.4 degF,7.87955,5300
+2021-08-12 14:10:02 +0000,2021-08-12 14:48:16 +0000,TraditionalStrengthTraining,2294.162541,sec,418.456 kcal,,America/New_York,82.4 degF,8.68946,6800
+2021-08-17 00:48:04 +0000,2021-08-17 01:20:43 +0000,TraditionalStrengthTraining,1958.06953,sec,425.501 kcal,,America/New_York,75.2 degF,10.5471,9400
+2021-08-20 21:45:44 +0000,2021-08-20 23:01:25 +0000,TraditionalStrengthTraining,4541.394449,sec,689.202 kcal,,America/New_York,78.8 degF,7.08942,8800
+2021-08-23 12:50:59 +0000,2021-08-23 13:41:35 +0000,TraditionalStrengthTraining,3036.516186,sec,577.735 kcal,,America/New_York,77 degF,8.86604,8500
+2021-08-30 12:46:06 +0000,2021-08-30 13:29:10 +0000,TraditionalStrengthTraining,2583.059771,sec,466.983 kcal,,America/New_York,80.6 degF,8.40642,7600
+2021-09-24 13:28:23 +0000,2021-09-24 14:30:26 +0000,TraditionalStrengthTraining,3722.252206,sec,837.725 kcal,,America/New_York,62.6 degF,10.7403,6200
+2021-09-30 11:24:38 +0000,2021-09-30 12:22:56 +0000,TraditionalStrengthTraining,3497.859829,sec,799.971 kcal,,America/New_York,64.4 degF,10.9541,8600
+2021-10-04 19:01:50 +0000,2021-10-04 19:56:13 +0000,TraditionalStrengthTraining,3263.748765,sec,862.946 kcal,,America/New_York,84.2 degF,12.6122,4900
+2021-10-05 18:24:01 +0000,2021-10-05 19:00:23 +0000,TraditionalStrengthTraining,2182.613299,sec,408.125 kcal,,America/New_York,82.4 degF,8.8446,5800
+2021-10-08 13:58:53 +0000,2021-10-08 14:50:06 +0000,TraditionalStrengthTraining,3072.709506,sec,655.296 kcal,,America/New_York,69.8 degF,10.2071,9000
+2021-10-12 01:27:01 +0000,2021-10-12 01:51:17 +0000,TraditionalStrengthTraining,1455.460281,sec,292.424 kcal,,America/New_York,69.8 degF,9.66003,8100
+2021-10-13 12:43:54 +0000,2021-10-13 13:29:18 +0000,TraditionalStrengthTraining,2724.230821,sec,507.662 kcal,,America/New_York,62.6 degF,8.67346,8900
+2021-10-18 13:12:59 +0000,2021-10-18 13:49:10 +0000,TraditionalStrengthTraining,2171.565635,sec,422.95 kcal,,America/New_York,57.2 degF,9.05215,6100
+2021-10-21 12:47:27 +0000,2021-10-21 13:26:37 +0000,TraditionalStrengthTraining,2349.990061,sec,329.341 kcal,,America/New_York,55.4 degF,6.17296,8300
+2021-10-22 18:25:21 +0000,2021-10-22 19:44:27 +0000,TraditionalStrengthTraining,4746.142037,sec,1057.28 kcal,,America/New_York,75.2 degF,10.5928,6200
+2021-10-23 21:12:13 +0000,2021-10-23 21:45:04 +0000,TraditionalStrengthTraining,1970.902316,sec,450.179 kcal,,America/New_York,71.6 degF,10.9254,4300
+2021-10-24 19:24:01 +0000,2021-10-24 20:42:19 +0000,TraditionalStrengthTraining,4697.877296,sec,868.863 kcal,,America/New_York,77 degF,8.60518,4300
+2021-11-03 12:11:33 +0000,2021-11-03 13:02:18 +0000,TraditionalStrengthTraining,3044.847368,sec,603.498 kcal,,America/New_York,46.4 degF,9.27817,8400
+2021-11-07 19:27:36 +0000,2021-11-07 20:09:39 +0000,TraditionalStrengthTraining,2522.672809,sec,561.666 kcal,,America/New_York,,10.7071,
+2021-11-09 21:03:35 +0000,2021-11-09 22:05:18 +0000,TraditionalStrengthTraining,3702.780434,sec,740.279 kcal,,America/New_York,,9.50105,
+2021-11-14 15:41:13 +0000,2021-11-14 16:46:28 +0000,TraditionalStrengthTraining,3915.021339,sec,799.246 kcal,,America/New_York,,9.53698,
+2021-11-18 20:23:52 +0000,2021-11-18 21:22:58 +0000,TraditionalStrengthTraining,3545.931497,sec,691.816 kcal,,America/New_York,73.4 degF,9.3803,5600
+2021-11-19 22:09:00 +0000,2021-11-19 22:59:29 +0000,TraditionalStrengthTraining,3029.788421,sec,583.48 kcal,,America/New_York,51.8 degF,9.18215,3400
+2021-11-20 14:25:11 +0000,2021-11-20 15:20:04 +0000,TraditionalStrengthTraining,3293.645549,sec,498.272 kcal,,America/New_York,44.6 degF,6.78609,5200
+2021-11-21 18:41:17 +0000,2021-11-21 19:30:59 +0000,TraditionalStrengthTraining,2982.569383,sec,497.626 kcal,,America/New_York,64.4 degF,7.63044,5500
+2021-11-23 18:35:24 +0000,2021-11-23 19:08:44 +0000,TraditionalStrengthTraining,2000.55542,sec,410.622 kcal,,America/New_York,,9.76413,
+2021-11-28 20:55:53 +0000,2021-11-28 21:43:57 +0000,TraditionalStrengthTraining,2884.026613,sec,683.618 kcal,,America/New_York,,11.3724,
+2021-11-29 22:18:20 +0000,2021-11-29 23:23:38 +0000,TraditionalStrengthTraining,3918.013329,sec,948.502 kcal,,America/New_York,,11.6256,
+2021-11-30 14:20:10 +0000,2021-11-30 15:15:25 +0000,TraditionalStrengthTraining,3315.689912,sec,680.177 kcal,,America/New_York,,9.85368,
+2021-12-06 00:59:20 +0000,2021-12-06 01:29:27 +0000,TraditionalStrengthTraining,1806.566149,sec,198.259 kcal,,America/New_York,,4.58615,
+2021-12-07 00:32:33 +0000,2021-12-07 01:33:09 +0000,TraditionalStrengthTraining,3635.492605,sec,832.903 kcal,,America/New_York,,11.078,
+2021-12-19 18:24:42 +0000,2021-12-19 18:55:43 +0000,TraditionalStrengthTraining,1861.039977,sec,484.223 kcal,,America/New_York,39.2 degF,12.4376,5400
+2021-12-20 20:14:44 +0000,2021-12-20 20:51:30 +0000,TraditionalStrengthTraining,2206.565184,sec,474.277 kcal,,America/New_York,37.4 degF,10.0152,3800
+2021-12-23 20:18:33 +0000,2021-12-23 21:02:02 +0000,TraditionalStrengthTraining,2609.140888,sec,533.254 kcal,,America/New_York,37.4 degF,9.51445,3800
+2022-01-03 21:29:03 +0000,2022-01-03 22:07:11 +0000,TraditionalStrengthTraining,2288.228008,sec,338.094 kcal,,America/New_York,28.4 degF,6.58585,5600
+2022-01-04 23:00:19 +0000,2022-01-04 23:07:36 +0000,TraditionalStrengthTraining,436.6179019,sec,66.1996 kcal,,America/New_York,26.6 degF,7.042,6500
+2022-01-05 21:36:09 +0000,2022-01-05 21:45:06 +0000,TraditionalStrengthTraining,536.7732999,sec,99.3057 kcal,,America/New_York,42.8 degF,8.98853,8300
+2022-01-08 18:18:12 +0000,2022-01-08 19:09:13 +0000,TraditionalStrengthTraining,3060.95878,sec,554.07 kcal,,America/New_York,37.4 degF,8.73107,3400
+2022-01-09 21:47:42 +0000,2022-01-09 22:26:17 +0000,TraditionalStrengthTraining,2315.343637,sec,530.34 kcal,,America/New_York,64.4 degF,11.0865,6400
+2022-01-11 19:57:33 +0000,2022-01-11 20:54:42 +0000,TraditionalStrengthTraining,3096.965799,sec,586.463 kcal,,America/New_York,41 degF,8.95421,2500
+2022-01-12 20:03:50 +0000,2022-01-12 21:09:37 +0000,TraditionalStrengthTraining,3946.342374,sec,801.125 kcal,,America/New_York,53.6 degF,9.83393,2500
+2022-01-15 20:24:16 +0000,2022-01-15 20:50:11 +0000,TraditionalStrengthTraining,1554.696509,sec,321.496 kcal,,America/New_York,39.2 degF,9.94385,4900
+2022-01-17 16:32:08 +0000,2022-01-17 17:28:16 +0000,TraditionalStrengthTraining,3367.728536,sec,628.678 kcal,,America/New_York,41 degF,8.69603,6200
+2022-01-19 20:26:44 +0000,2022-01-19 21:22:27 +0000,TraditionalStrengthTraining,3343.094586,sec,592.399 kcal,,America/New_York,59 degF,8.22447,3100
+2022-01-22 21:52:54 +0000,2022-01-22 22:42:34 +0000,TraditionalStrengthTraining,2979.799974,sec,380.797 kcal,,America/New_York,33.8 degF,5.46199,6000
+2022-01-25 14:16:42 +0000,2022-01-25 15:15:40 +0000,TraditionalStrengthTraining,3537.873431,sec,681.073 kcal,,America/New_York,42.8 degF,8.99173,6900
+2022-01-28 15:02:33 +0000,2022-01-28 15:37:30 +0000,TraditionalStrengthTraining,2097.741936,sec,491.263 kcal,,America/New_York,37.4 degF,11.2851,5900
+2022-02-01 14:17:19 +0000,2022-02-01 15:24:41 +0000,TraditionalStrengthTraining,4042.676754,sec,792.534 kcal,,America/New_York,35.6 degF,9.40627,7800
+2022-02-02 15:08:21 +0000,2022-02-02 15:53:58 +0000,TraditionalStrengthTraining,2736.477367,sec,644.925 kcal,,America/New_York,44.6 degF,11.2708,6900
+2022-02-05 18:10:01 +0000,2022-02-05 19:00:55 +0000,TraditionalStrengthTraining,3053.892441,sec,714.794 kcal,,America/New_York,42.8 degF,11.238,3300
+2022-02-09 16:40:47 +0000,2022-02-09 17:44:42 +0000,TraditionalStrengthTraining,3834.860222,sec,808.256 kcal,,America/New_York,53.6 degF,10.0996,4600
+2022-02-10 18:41:07 +0000,2022-02-10 19:43:52 +0000,TraditionalStrengthTraining,3764.880293,sec,803.083 kcal,,America/New_York,64.4 degF,10.2983,2400
+2022-02-12 20:24:37 +0000,2022-02-12 21:13:23 +0000,TraditionalStrengthTraining,2926.388177,sec,667.13 kcal,,America/New_York,71.6 degF,10.9862,2900
+2022-02-15 18:15:10 +0000,2022-02-15 19:22:59 +0000,TraditionalStrengthTraining,4069.345722,sec,699.393 kcal,,America/New_York,46.4 degF,7.95173,3600
+2022-02-16 15:40:31 +0000,2022-02-16 16:32:28 +0000,TraditionalStrengthTraining,3116.574016,sec,577.28 kcal,,America/New_York,51.8 degF,8.48848,5200
+2022-02-20 20:10:24 +0000,2022-02-20 20:22:16 +0000,TraditionalStrengthTraining,712.2055711,sec,168.015 kcal,,America/New_York,50 degF,11.572,2100
+2022-02-21 14:13:44 +0000,2022-02-21 15:00:25 +0000,TraditionalStrengthTraining,2800.946803,sec,428.577 kcal,,America/New_York,46.4 degF,6.73638,6400
+2022-02-23 19:43:31 +0000,2022-02-23 20:50:20 +0000,TraditionalStrengthTraining,4009.077306,sec,923.954 kcal,,America/New_York,69.8 degF,11.052,7400
+2022-02-26 17:30:21 +0000,2022-02-26 18:34:23 +0000,TraditionalStrengthTraining,3841.231577,sec,866.277 kcal,,America/New_York,44.6 degF,10.7588,5700
+2022-03-20 17:52:46 +0000,2022-03-20 19:00:36 +0000,TraditionalStrengthTraining,4069.452863,sec,747.442 kcal,,America/New_York,64.4 degF,8.87408,3200
+2022-03-21 12:10:59 +0000,2022-03-21 13:12:10 +0000,TraditionalStrengthTraining,3671.421704,sec,669.775 kcal,,America/New_York,46.4 degF,8.75316,6600
+2022-03-23 18:16:28 +0000,2022-03-23 19:24:15 +0000,TraditionalStrengthTraining,4067.394695,sec,840.017 kcal,,America/New_York,66.2 degF,9.99847,8500
+2022-03-25 18:23:13 +0000,2022-03-25 19:29:25 +0000,TraditionalStrengthTraining,3971.678474,sec,842.965 kcal,,America/New_York,69.8 degF,10.1656,2500
+2022-03-26 18:05:22 +0000,2022-03-26 19:22:17 +0000,TraditionalStrengthTraining,4615.146294,sec,1084.69 kcal,,America/New_York,60.8 degF,11.0929,2700
+2022-03-28 18:35:20 +0000,2022-03-28 19:46:15 +0000,TraditionalStrengthTraining,4255.138818,sec,733.951 kcal,,America/New_York,57.2 degF,7.92905,2100
+2022-03-30 18:14:21 +0000,2022-03-30 19:24:21 +0000,TraditionalStrengthTraining,4199.662125,sec,1006.88 kcal,,America/New_York,60.8 degF,11.4888,4700
+2022-03-31 19:02:16 +0000,2022-03-31 19:25:01 +0000,TraditionalStrengthTraining,1364.597036,sec,326.191 kcal,,America/New_York,68 degF,11.5269,9200
+2022-04-01 13:22:21 +0000,2022-04-01 14:28:25 +0000,TraditionalStrengthTraining,3963.892333,sec,814.5 kcal,,America/New_York,60.8 degF,9.82594,4500
+2022-04-04 18:36:25 +0000,2022-04-04 19:42:41 +0000,TraditionalStrengthTraining,3975.91922,sec,767.429 kcal,,America/New_York,62.6 degF,9.13578,3200
+2022-04-05 17:32:11 +0000,2022-04-05 18:27:47 +0000,TraditionalStrengthTraining,3336.406732,sec,850.109 kcal,,America/New_York,75.2 degF,12.1777,4500
+2022-04-06 15:19:41 +0000,2022-04-06 16:10:09 +0000,TraditionalStrengthTraining,3027.716662,sec,626.17 kcal,,America/New_York,71.6 degF,9.90808,5700
+2022-04-08 15:09:15 +0000,2022-04-08 15:56:19 +0000,TraditionalStrengthTraining,2824.18795,sec,633.024 kcal,,America/New_York,55.4 degF,10.658,6200
+2022-04-09 17:53:14 +0000,2022-04-09 18:50:21 +0000,TraditionalStrengthTraining,3426.729295,sec,724.741 kcal,,America/New_York,55.4 degF,10.1411,3400
+2022-04-13 14:11:24 +0000,2022-04-13 15:09:43 +0000,TraditionalStrengthTraining,3498.621107,sec,690.009 kcal,,America/New_York,69.8 degF,9.22894,7000
+2022-04-14 16:25:23 +0000,2022-04-14 17:27:18 +0000,TraditionalStrengthTraining,3714.88641,sec,753.007 kcal,,America/New_York,78.8 degF,9.46514,6000
+2022-04-19 15:53:44 +0000,2022-04-19 17:08:08 +0000,TraditionalStrengthTraining,4463.909423,sec,958.482 kcal,,America/New_York,53.6 degF,10.2759,3600
+2022-04-20 15:28:07 +0000,2022-04-20 16:31:02 +0000,TraditionalStrengthTraining,3774.946395,sec,960.891 kcal,,America/New_York,55.4 degF,12.1936,3600
+2022-04-22 16:59:44 +0000,2022-04-22 17:37:18 +0000,TraditionalStrengthTraining,2253.526049,sec,490.968 kcal,,America/New_York,80.6 degF,10.556,4200
+2022-04-27 18:06:12 +0000,2022-04-27 18:56:48 +0000,TraditionalStrengthTraining,3036.547534,sec,546.265 kcal,,America/New_York,69.8 degF,8.31218,2500
+2022-04-28 15:39:36 +0000,2022-04-28 17:11:18 +0000,TraditionalStrengthTraining,5501.376689,sec,1080.13 kcal,,America/New_York,62.6 degF,8.95141,3600
+2022-04-29 18:58:22 +0000,2022-04-29 19:50:31 +0000,TraditionalStrengthTraining,3128.76678,sec,692.05 kcal,,America/New_York,66.2 degF,10.5531,4000
+2022-04-30 18:04:48 +0000,2022-04-30 18:40:29 +0000,TraditionalStrengthTraining,2141.655504,sec,428.134 kcal,,America/New_York,71.6 degF,9.25607,5700
+2022-05-02 16:19:41 +0000,2022-05-02 17:24:00 +0000,TraditionalStrengthTraining,3858.829224,sec,862.578 kcal,,America/New_York,73.4 degF,10.7249,7200
+2022-05-08 21:14:44 +0000,2022-05-08 21:36:31 +0000,TraditionalStrengthTraining,1307.009535,sec,255.198 kcal,,America/New_York,57.2 degF,9.11257,4100
+2022-05-09 19:27:39 +0000,2022-05-09 20:24:02 +0000,TraditionalStrengthTraining,3382.958803,sec,746.496 kcal,,America/New_York,66.2 degF,10.0438,2300
+2022-05-10 16:38:41 +0000,2022-05-10 16:49:40 +0000,TraditionalStrengthTraining,658.9318069,sec,120.686 kcal,,America/New_York,68 degF,8.5315,2700
+2022-05-15 19:10:49 +0000,2022-05-15 20:15:01 +0000,TraditionalStrengthTraining,3851.272409,sec,788.074 kcal,,America/New_York,75.2 degF,9.76349,6400
+2022-05-16 16:42:59 +0000,2022-05-16 17:55:18 +0000,TraditionalStrengthTraining,4338.839076,sec,922.473 kcal,,America/New_York,75.2 degF,10.2735,7300
+2022-05-17 18:24:40 +0000,2022-05-17 19:36:03 +0000,TraditionalStrengthTraining,4282.211318,sec,731.335 kcal,,America/New_York,78.8 degF,8.03663,2900
+2022-05-19 15:57:50 +0000,2022-05-19 16:26:31 +0000,TraditionalStrengthTraining,1721.719833,sec,262.583 kcal,,America/New_York,62.6 degF,7.02313,8400
+2022-05-25 17:49:26 +0000,2022-05-25 18:45:08 +0000,TraditionalStrengthTraining,3341.606096,sec,731.69 kcal,,America/New_York,71.6 degF,10.5986,3900
+2022-05-27 17:23:01 +0000,2022-05-27 18:13:04 +0000,TraditionalStrengthTraining,3003.388337,sec,592.936 kcal,,America/New_York,75.2 degF,9.5669,8000
+2022-05-30 17:33:04 +0000,2022-05-30 18:23:50 +0000,TraditionalStrengthTraining,3045.34063,sec,488.464 kcal,,America/New_York,86 degF,7.27388,4800
+2022-05-31 18:55:03 +0000,2022-05-31 19:54:55 +0000,TraditionalStrengthTraining,3591.622461,sec,717.19 kcal,,America/New_York,93.2 degF,9.60077,3300
+2022-06-01 19:44:40 +0000,2022-06-01 20:25:54 +0000,TraditionalStrengthTraining,2473.510932,sec,458.193 kcal,,America/New_York,86 degF,8.91334,5500
+2022-06-02 16:34:24 +0000,2022-06-02 17:42:53 +0000,TraditionalStrengthTraining,4109.256819,sec,689.328 kcal,,America/New_York,82.4 degF,7.67529,5900
+2022-06-04 18:00:25 +0000,2022-06-04 18:50:34 +0000,TraditionalStrengthTraining,3009.288821,sec,548.144 kcal,,America/New_York,82.4 degF,8.61467,2900
+2022-06-07 17:16:07 +0000,2022-06-07 17:45:51 +0000,TraditionalStrengthTraining,1784.080361,sec,359.314 kcal,,America/New_York,84.2 degF,9.81614,4500
+2022-06-08 17:27:15 +0000,2022-06-08 18:27:30 +0000,TraditionalStrengthTraining,3615.204392,sec,669.411 kcal,,America/New_York,86 degF,8.71789,5900
+2022-06-11 18:41:22 +0000,2022-06-11 19:41:51 +0000,TraditionalStrengthTraining,3629.591813,sec,784.585 kcal,,America/New_York,69.8 degF,10.3442,6500
+2022-06-12 16:50:17 +0000,2022-06-12 17:37:50 +0000,TraditionalStrengthTraining,2852.531186,sec,584.418 kcal,,America/New_York,71.6 degF,10.0153,8400
+2022-06-14 17:17:26 +0000,2022-06-14 18:16:12 +0000,TraditionalStrengthTraining,3525.771583,sec,678.524 kcal,,America/New_York,73.4 degF,9.38145,5800
+2022-06-15 18:02:33 +0000,2022-06-15 19:02:45 +0000,TraditionalStrengthTraining,3612.139221,sec,703.158 kcal,,America/New_York,86 degF,9.36112,4100
+2022-06-16 17:57:10 +0000,2022-06-16 18:57:30 +0000,TraditionalStrengthTraining,3619.19876,sec,767.854 kcal,,America/New_York,75.2 degF,10.1218,6700
+2022-06-23 19:07:01 +0000,2022-06-23 20:03:54 +0000,TraditionalStrengthTraining,3413.047081,sec,648.538 kcal,,America/New_York,69.8 degF,9.06773,7700
+2022-06-24 17:42:07 +0000,2022-06-24 18:32:25 +0000,TraditionalStrengthTraining,3017.922119,sec,647.846 kcal,,America/New_York,80.6 degF,10.4619,5600
+2022-06-27 15:49:34 +0000,2022-06-27 16:53:37 +0000,TraditionalStrengthTraining,3842.568944,sec,770.964 kcal,,America/New_York,78.8 degF,9.71811,7200
+2022-06-30 15:27:41 +0000,2022-06-30 16:30:00 +0000,TraditionalStrengthTraining,3739.151263,sec,675.213 kcal,,America/New_York,84.2 degF,8.3201,4200
+2022-07-08 18:31:07 +0000,2022-07-08 19:36:27 +0000,TraditionalStrengthTraining,3919.976341,sec,676.088 kcal,,America/New_York,84.2 degF,7.89962,5900
+2022-07-09 15:43:33 +0000,2022-07-09 16:37:42 +0000,TraditionalStrengthTraining,3248.926996,sec,609.113 kcal,,America/New_York,73.4 degF,8.65272,7900
+2022-07-11 21:24:30 +0000,2022-07-11 22:08:42 +0000,TraditionalStrengthTraining,2652.582861,sec,589.784 kcal,,America/New_York,84.2 degF,10.6175,3700
+2022-07-13 15:41:37 +0000,2022-07-13 16:53:15 +0000,TraditionalStrengthTraining,4298.004135,sec,819.524 kcal,,America/New_York,87.8 degF,8.93292,4700
+2022-07-15 14:28:19 +0000,2022-07-15 15:31:03 +0000,TraditionalStrengthTraining,3763.600271,sec,677.986 kcal,,America/New_York,80.6 degF,8.1221,4900
+2022-07-18 15:59:31 +0000,2022-07-18 17:03:00 +0000,TraditionalStrengthTraining,3808.924215,sec,802.307 kcal,,America/New_York,87.8 degF,9.93328,6700
+2022-07-24 16:52:30 +0000,2022-07-24 17:54:32 +0000,TraditionalStrengthTraining,3722.47153,sec,776.09 kcal,,America/New_York,93.2 degF,10.0157,3400
+2022-07-26 18:52:54 +0000,2022-07-26 19:57:31 +0000,TraditionalStrengthTraining,3877.355929,sec,875.384 kcal,,America/New_York,75.2 degF,10.8076,6300
+2022-07-27 17:12:32 +0000,2022-07-27 18:25:53 +0000,TraditionalStrengthTraining,4400.661499,sec,913.748 kcal,,America/New_York,84.2 degF,9.93869,5200
+2022-07-28 15:22:18 +0000,2022-07-28 16:08:02 +0000,TraditionalStrengthTraining,2744.569682,sec,537.395 kcal,,America/New_York,87.8 degF,9.45605,6000
+2022-07-28 16:59:25 +0000,2022-07-28 20:01:25 +0000,TraditionalStrengthTraining,10919.70382,sec,1866.69 kcal,,America/New_York,87.8 degF,8.13974,5800
+2022-07-29 12:15:56 +0000,2022-07-29 13:11:35 +0000,TraditionalStrengthTraining,3339.577205,sec,304.463 kcal,,America/New_York,73.4 degF,3.40753,8700
+2022-07-29 13:15:29 +0000,2022-07-29 16:10:20 +0000,TraditionalStrengthTraining,10490.09604,sec,999.916 kcal,,America/New_York,75.2 degF,3.72648,8300
+2022-08-01 13:54:40 +0000,2022-08-01 14:48:19 +0000,TraditionalStrengthTraining,3218.576954,sec,497.102 kcal,,America/New_York,69.8 degF,6.97251,9100
+2022-08-03 18:13:19 +0000,2022-08-03 19:13:24 +0000,TraditionalStrengthTraining,3605.278657,sec,745.67 kcal,,America/New_York,87.8 degF,9.85242,4300
+2022-08-05 17:44:30 +0000,2022-08-05 18:42:49 +0000,TraditionalStrengthTraining,3499.668985,sec,677.74 kcal,,America/New_York,86 degF,9.29941,6200
+2022-08-06 17:46:49 +0000,2022-08-06 18:37:35 +0000,TraditionalStrengthTraining,3045.869106,sec,532.116 kcal,,America/New_York,86 degF,8.03834,6200
+2022-08-08 20:20:33 +0000,2022-08-08 21:31:14 +0000,TraditionalStrengthTraining,4240.261645,sec,909.546 kcal,,America/New_York,93.2 degF,10.2582,5000
+2022-08-09 15:50:07 +0000,2022-08-09 16:51:27 +0000,TraditionalStrengthTraining,3680.092252,sec,616.193 kcal,,America/New_York,91.4 degF,7.64482,5500
+2022-08-10 16:26:48 +0000,2022-08-10 17:26:15 +0000,TraditionalStrengthTraining,3566.507101,sec,710.591 kcal,,America/New_York,89.6 degF,9.41929,5200
+2022-08-15 19:02:47 +0000,2022-08-15 20:03:38 +0000,TraditionalStrengthTraining,3650.639005,sec,760.341 kcal,,America/New_York,75.2 degF,9.98261,7800
+2022-08-17 21:16:36 +0000,2022-08-17 22:13:40 +0000,TraditionalStrengthTraining,3423.646558,sec,577.48 kcal,,America/New_York,82.4 degF,7.782,4600
+2022-08-18 13:57:42 +0000,2022-08-18 14:58:43 +0000,TraditionalStrengthTraining,3661.342669,sec,809.484 kcal,,America/New_York,75.2 degF,10.6314,6600
+2022-08-23 14:19:28 +0000,2022-08-23 15:28:20 +0000,TraditionalStrengthTraining,3806.570064,sec,858.385 kcal,,America/New_York,80.6 degF,9.98293,6300
+2022-08-25 14:35:23 +0000,2022-08-25 15:22:33 +0000,TraditionalStrengthTraining,2829.846797,sec,506.333 kcal,,America/New_York,84.2 degF,8.40417,6100
+2022-08-30 00:04:01 +0000,2022-08-30 00:57:39 +0000,TraditionalStrengthTraining,3218.080203,sec,717.155 kcal,,America/New_York,82.4 degF,10.6774,6900
+2022-08-30 14:29:23 +0000,2022-08-30 15:46:19 +0000,TraditionalStrengthTraining,4616.931038,sec,940.035 kcal,,America/New_York,80.6 degF,9.68455,7000
+2022-09-01 14:31:43 +0000,2022-09-01 15:40:04 +0000,TraditionalStrengthTraining,4100.699003,sec,735.098 kcal,,America/New_York,78.8 degF,8.38376,5200
+2022-09-05 17:07:25 +0000,2022-09-05 18:00:10 +0000,TraditionalStrengthTraining,3165.490971,sec,602.457 kcal,,America/New_York,84.2 degF,9.07518,5800
+2022-09-06 14:37:26 +0000,2022-09-06 15:22:58 +0000,TraditionalStrengthTraining,2731.364572,sec,459.468 kcal,,America/New_York,80.6 degF,7.59479,8400
+2022-09-09 16:53:33 +0000,2022-09-09 17:53:39 +0000,TraditionalStrengthTraining,3605.727833,sec,780.377 kcal,,America/New_York,78.8 degF,10.3003,5500
+2022-09-11 16:30:06 +0000,2022-09-11 16:50:10 +0000,TraditionalStrengthTraining,1203.40806,sec,165.654 kcal,,America/New_York,80.6 degF,6.13911,8200
+2022-09-12 22:17:24 +0000,2022-09-12 22:45:05 +0000,TraditionalStrengthTraining,1661.703741,sec,290.255 kcal,,America/New_York,84.2 degF,8.03385,6400
+2022-09-13 15:14:21 +0000,2022-09-13 16:12:35 +0000,TraditionalStrengthTraining,3494.018223,sec,502.169 kcal,,America/New_York,75.2 degF,6.3745,4800
+2022-09-16 00:21:08 +0000,2022-09-16 00:51:55 +0000,TraditionalStrengthTraining,1847.159614,sec,362.012 kcal,,America/New_York,73.4 degF,9.05989,6700
+2022-09-18 17:44:32 +0000,2022-09-18 18:37:11 +0000,TraditionalStrengthTraining,3159.066464,sec,550.45 kcal,,America/New_York,82.814 degF,8.15196,5600
+2022-09-20 13:47:51 +0000,2022-09-20 14:54:37 +0000,TraditionalStrengthTraining,4005.801123,sec,774.97 kcal,,America/New_York,76.028 degF,9.14501,7400
+2022-09-25 18:07:19 +0000,2022-09-25 19:09:30 +0000,TraditionalStrengthTraining,3731.857005,sec,741.532 kcal,,America/New_York,82.4 degF,9.36951,4700
+2022-09-26 14:26:47 +0000,2022-09-26 15:10:12 +0000,TraditionalStrengthTraining,2605.520483,sec,501.668 kcal,,America/New_York,70.664 degF,8.97495,6700
+2022-09-27 14:33:05 +0000,2022-09-27 15:31:57 +0000,TraditionalStrengthTraining,3531.486619,sec,774.32 kcal,,America/New_York,67.64 degF,10.6149,5000
+2022-09-29 14:39:56 +0000,2022-09-29 15:34:37 +0000,TraditionalStrengthTraining,3280.876411,sec,736.658 kcal,,America/New_York,61.16 degF,10.8351,7000
+2022-09-30 17:41:59 +0000,2022-09-30 18:50:37 +0000,TraditionalStrengthTraining,4118.617453,sec,745.212 kcal,,America/New_York,59.108 degF,8.58992,9300
+2022-10-01 17:06:04 +0000,2022-10-01 18:01:06 +0000,TraditionalStrengthTraining,3302.328731,sec,672.079 kcal,,America/New_York,63.482 degF,9.72796,8300
+2022-10-02 15:57:39 +0000,2022-10-02 17:04:54 +0000,TraditionalStrengthTraining,4035.759035,sec,858.83 kcal,,America/New_York,62.366 degF,10.2944,8100
+2022-10-04 14:45:56 +0000,2022-10-04 16:01:43 +0000,TraditionalStrengthTraining,4546.828176,sec,941.629 kcal,,America/New_York,57.2 degF,10.0162,6300
+2022-10-08 14:29:00 +0000,2022-10-08 15:55:08 +0000,TraditionalStrengthTraining,5167.56953,sec,1101.23 kcal,,America/New_York,,10.091,
+2022-10-09 16:41:36 +0000,2022-10-09 17:32:34 +0000,TraditionalStrengthTraining,3058.331056,sec,645.827 kcal,,America/New_York,63.788 degF,10.1274,5200
+2022-10-10 15:48:29 +0000,2022-10-10 16:44:04 +0000,TraditionalStrengthTraining,3335.508512,sec,702.511 kcal,,America/New_York,64.544 degF,10.0298,6500
+2022-10-13 14:34:34 +0000,2022-10-13 15:42:38 +0000,TraditionalStrengthTraining,4084.371326,sec,657.058 kcal,,America/New_York,68.054 degF,7.2334,9300
+2022-10-14 16:40:59 +0000,2022-10-14 17:51:03 +0000,TraditionalStrengthTraining,4204.298951,sec,890.357 kcal,,America/New_York,67.64 degF,10.2631,5900
+2022-10-15 17:27:20 +0000,2022-10-15 18:28:07 +0000,TraditionalStrengthTraining,3646.725816,sec,713.949 kcal,,America/New_York,73.796 degF,9.19529,4500
+2022-10-18 14:41:03 +0000,2022-10-18 15:59:40 +0000,TraditionalStrengthTraining,4717.025585,sec,703.316 kcal,,America/New_York,48.614 degF,6.78452,5300
+2022-10-19 19:05:28 +0000,2022-10-19 19:52:42 +0000,TraditionalStrengthTraining,2833.862924,sec,582.283 kcal,,America/New_York,57.11 degF,9.71918,4600
+2022-10-20 14:37:53 +0000,2022-10-20 15:41:26 +0000,TraditionalStrengthTraining,3812.906958,sec,696.709 kcal,,America/New_York,51.44 degF,8.58098,6300
+2022-10-22 18:57:14 +0000,2022-10-22 19:58:09 +0000,TraditionalStrengthTraining,3655.830942,sec,670.673 kcal,,America/New_York,71.888 degF,8.65307,4600
+2022-10-24 23:58:14 +0000,2022-10-25 01:03:24 +0000,TraditionalStrengthTraining,3910.06968,sec,776.556 kcal,,America/New_York,62.708 degF,9.17477,7300
+2022-10-25 14:43:12 +0000,2022-10-25 15:54:49 +0000,TraditionalStrengthTraining,4296.377164,sec,666.617 kcal,,America/New_York,60.134 degF,6.97318,8600
+2022-11-01 14:42:24 +0000,2022-11-01 16:45:11 +0000,TraditionalStrengthTraining,7366.797287,sec,1410.84 kcal,,America/New_York,65.066 degF,9.11417,8600
+2022-11-04 16:18:53 +0000,2022-11-04 17:33:28 +0000,TraditionalStrengthTraining,4475.840751,sec,719.87 kcal,,America/New_York,74.444 degF,7.32312,7500
+2022-11-05 17:50:44 +0000,2022-11-05 18:31:12 +0000,TraditionalStrengthTraining,2427.843216,sec,381.698 kcal,,America/New_York,78.872 degF,6.9234,6000
+2022-11-06 17:58:12 +0000,2022-11-06 19:08:43 +0000,TraditionalStrengthTraining,4230.478484,sec,862.438 kcal,,America/New_York,79.898 degF,9.65101,6200
+2022-11-08 01:42:22 +0000,2022-11-08 02:48:46 +0000,TraditionalStrengthTraining,3984.272595,sec,849.668 kcal,,America/New_York,70.286 degF,10.1773,8000
+2022-11-08 15:36:35 +0000,2022-11-08 16:17:22 +0000,TraditionalStrengthTraining,2447.035607,sec,410.648 kcal,,America/New_York,60.422 degF,7.50424,4100
+2022-11-10 16:17:51 +0000,2022-11-10 17:29:59 +0000,TraditionalStrengthTraining,4327.932019,sec,1043.23 kcal,,America/New_York,66.884 degF,11.5814,7300
+2022-11-13 18:01:05 +0000,2022-11-13 19:03:53 +0000,TraditionalStrengthTraining,3768.275358,sec,671.254 kcal,,America/New_York,54.482 degF,8.45104,4500
+2022-11-15 02:10:32 +0000,2022-11-15 03:04:52 +0000,TraditionalStrengthTraining,3260.630281,sec,636.629 kcal,,America/New_York,39.002 degF,9.2626,7400
+2022-11-15 15:44:39 +0000,2022-11-15 17:28:09 +0000,TraditionalStrengthTraining,5823.294021,sec,956.935 kcal,,America/New_York,47.426 degF,7.50746,7700
+2022-11-18 18:38:07 +0000,2022-11-18 19:43:43 +0000,TraditionalStrengthTraining,3936.362044,sec,864.413 kcal,,America/New_York,,10.5269,
+2022-11-19 21:46:44 +0000,2022-11-19 22:46:01 +0000,TraditionalStrengthTraining,3556.870238,sec,676.389 kcal,,America/New_York,50.198 degF,9.11212,5600
+2022-11-20 23:40:56 +0000,2022-11-20 23:59:48 +0000,TraditionalStrengthTraining,1131.502876,sec,207.138 kcal,,America/New_York,38.048 degF,8.44297,5000
+2022-11-26 18:26:27 +0000,2022-11-26 19:50:21 +0000,TraditionalStrengthTraining,5034.118887,sec,1064.17 kcal,,America/New_York,60.998 degF,10.1275,4500
+2022-11-27 21:38:39 +0000,2022-11-27 22:58:34 +0000,TraditionalStrengthTraining,4795.679923,sec,1010.13 kcal,,America/New_York,69.08 degF,9.94769,8300
+2022-11-28 20:07:26 +0000,2022-11-28 21:15:29 +0000,TraditionalStrengthTraining,4082.688583,sec,801.64 kcal,,America/New_York,63.176 degF,9.24225,5400
+2022-11-29 15:43:43 +0000,2022-11-29 17:21:31 +0000,TraditionalStrengthTraining,5868.607847,sec,689.227 kcal,,America/New_York,52.754 degF,4.86216,6800
+2022-12-01 16:28:02 +0000,2022-12-01 17:20:00 +0000,TraditionalStrengthTraining,3117.162701,sec,552.62 kcal,,America/New_York,46.526 degF,8.32605,4300
+2022-12-02 18:53:00 +0000,2022-12-02 20:14:34 +0000,TraditionalStrengthTraining,4893.673826,sec,1064.26 kcal,,America/New_York,55.76 degF,10.517,4500
+2022-12-06 19:58:43 +0000,2022-12-06 21:03:17 +0000,TraditionalStrengthTraining,3874.493951,sec,795.14 kcal,,America/New_York,60.638 degF,9.79927,7800
+2022-12-08 18:14:53 +0000,2022-12-08 19:25:09 +0000,TraditionalStrengthTraining,4216.198381,sec,899.477 kcal,,America/New_York,63.896 degF,10.1861,7300
+2022-12-11 21:58:34 +0000,2022-12-11 23:08:38 +0000,TraditionalStrengthTraining,4204.185085,sec,879.874 kcal,,America/New_York,51.674 degF,10.0394,6900
+2022-12-13 16:31:00 +0000,2022-12-13 17:35:44 +0000,TraditionalStrengthTraining,3883.531855,sec,871.92 kcal,,America/New_York,43.628 degF,10.7741,5600
+2022-12-15 23:50:38 +0000,2022-12-16 00:51:12 +0000,TraditionalStrengthTraining,3634.620966,sec,833.707 kcal,,America/New_York,40.118 degF,10.9327,10000
+2022-12-21 18:44:50 +0000,2022-12-21 19:45:35 +0000,TraditionalStrengthTraining,3645.149027,sec,784.755 kcal,,America/New_York,47.768 degF,10.2783,7800
+2023-01-06 17:20:08 +0000,2023-01-06 18:29:10 +0000,TraditionalStrengthTraining,4141.308501,sec,866.106 kcal,,America/New_York,53.942 degF,9.97757,4500
+2023-01-07 17:38:35 +0000,2023-01-07 18:55:36 +0000,TraditionalStrengthTraining,4621.004309,sec,1037.36 kcal,,America/New_York,48.2 degF,10.7948,5700
+2023-01-12 15:01:14 +0000,2023-01-12 16:08:01 +0000,TraditionalStrengthTraining,4006.68395,sec,681.313 kcal,,America/New_York,55.148 degF,7.93312,7200
+2023-01-13 18:57:06 +0000,2023-01-13 20:02:07 +0000,TraditionalStrengthTraining,3901.402285,sec,626.977 kcal,,America/New_York,54.176 degF,7.27483,5300
+2023-01-14 18:31:00 +0000,2023-01-14 19:28:26 +0000,TraditionalStrengthTraining,3446.940745,sec,831.191 kcal,,America/New_York,42.422 degF,11.5463,5200
+2023-01-17 00:28:08 +0000,2023-01-17 01:33:56 +0000,TraditionalStrengthTraining,3948.33375,sec,990.025 kcal,,America/New_York,46.49 degF,11.8469,5000
+2023-01-17 14:59:39 +0000,2023-01-17 16:06:51 +0000,TraditionalStrengthTraining,4032.294425,sec,851.856 kcal,,America/New_York,48.974 degF,10.1204,6000
+2023-01-18 22:46:09 +0000,2023-01-18 23:51:27 +0000,TraditionalStrengthTraining,3918.538091,sec,942.45 kcal,,America/New_York,59.666 degF,11.3998,7200
+2023-01-19 15:30:06 +0000,2023-01-19 16:21:35 +0000,TraditionalStrengthTraining,3089.04582,sec,628.864 kcal,,America/New_York,63.572 degF,9.55501,8500
+2023-01-21 17:53:06 +0000,2023-01-21 18:53:37 +0000,TraditionalStrengthTraining,3630.806808,sec,771.742 kcal,,America/New_York,48.506 degF,10.1705,4500
+2023-01-24 15:47:40 +0000,2023-01-24 16:45:21 +0000,TraditionalStrengthTraining,3460.486522,sec,735.205 kcal,,America/New_York,43.88 degF,9.97417,5700
+2023-01-26 15:48:54 +0000,2023-01-26 16:54:10 +0000,TraditionalStrengthTraining,3916.096296,sec,789.765 kcal,,America/New_York,47.354 degF,9.67069,5900
+2023-01-29 15:30:55 +0000,2023-01-29 16:43:15 +0000,TraditionalStrengthTraining,4340.227693,sec,1041.55 kcal,,America/New_York,47.642 degF,11.5544,6100
+2023-02-02 19:50:26 +0000,2023-02-02 20:53:02 +0000,TraditionalStrengthTraining,3756.268612,sec,674.267 kcal,,America/New_York,42.656 degF,8.1614,9300
+2023-02-05 19:30:06 +0000,2023-02-05 20:31:58 +0000,TraditionalStrengthTraining,3712.561389,sec,798.925 kcal,,America/New_York,46.688 degF,10.2614,6900
+2023-02-07 15:55:09 +0000,2023-02-07 16:55:57 +0000,TraditionalStrengthTraining,3648.623803,sec,794.223 kcal,,America/New_York,50.432 degF,10.2737,6000
+2023-02-09 17:10:31 +0000,2023-02-09 17:47:07 +0000,TraditionalStrengthTraining,2195.931645,sec,431.004 kcal,,America/New_York,70.268 degF,9.24966,5700
+2023-02-10 20:22:50 +0000,2023-02-10 21:00:31 +0000,TraditionalStrengthTraining,2261.377772,sec,348.497 kcal,,America/New_York,70.43 degF,6.82072,4800
+2023-02-13 20:50:20 +0000,2023-02-13 21:54:23 +0000,TraditionalStrengthTraining,3842.051966,sec,922.777 kcal,,America/New_York,62.978 degF,11.5345,3700
+2023-02-16 17:10:48 +0000,2023-02-16 17:56:21 +0000,TraditionalStrengthTraining,2733.542524,sec,565.635 kcal,,America/New_York,70.61 degF,9.99961,7100
+2023-02-20 15:24:56 +0000,2023-02-20 16:06:28 +0000,TraditionalStrengthTraining,2492.186357,sec,460.712 kcal,,America/New_York,55.076 degF,8.4768,6900
+2023-02-21 15:02:59 +0000,2023-02-21 15:58:52 +0000,TraditionalStrengthTraining,3353.033324,sec,689.858 kcal,,America/New_York,61.79 degF,9.73535,7400
+2023-02-23 17:10:29 +0000,2023-02-23 18:03:57 +0000,TraditionalStrengthTraining,3208.43602,sec,725.062 kcal,,America/New_York,76.82 degF,10.8467,6500
+2023-02-26 15:58:17 +0000,2023-02-26 17:04:52 +0000,TraditionalStrengthTraining,3994.920968,sec,892.172 kcal,,America/New_York,51.872 degF,10.7741,7800
+2023-03-07 15:49:21 +0000,2023-03-07 16:54:13 +0000,TraditionalStrengthTraining,3891.874069,sec,677.38 kcal,,America/New_York,69.17 degF,7.94524,4400
+2023-03-10 00:26:45 +0000,2023-03-10 01:03:07 +0000,TraditionalStrengthTraining,2181.302983,sec,395.849 kcal,,America/New_York,54.302 degF,8.33003,4600
+2023-03-10 19:03:10 +0000,2023-03-10 19:47:17 +0000,TraditionalStrengthTraining,2647.4559,sec,659.763 kcal,,America/New_York,51.836 degF,11.9046,9100
+2023-03-12 18:33:19 +0000,2023-03-12 19:32:43 +0000,TraditionalStrengthTraining,3563.493404,sec,807.843 kcal,,America/New_York,39.416 degF,10.9051,8900
+2023-03-21 14:54:22 +0000,2023-03-21 15:47:08 +0000,TraditionalStrengthTraining,3165.845543,sec,536.791 kcal,,America/New_York,48.416 degF,7.86648,4100
+2023-03-24 16:56:17 +0000,2023-03-24 18:02:55 +0000,TraditionalStrengthTraining,3998.020864,sec,881.619 kcal,,America/New_York,81.212 degF,10.6147,5000
+2023-03-28 14:37:50 +0000,2023-03-28 15:38:19 +0000,TraditionalStrengthTraining,3629.017937,sec,637.452 kcal,,America/New_York,60.134 degF,8.3432,6700
+2023-03-29 14:14:00 +0000,2023-03-29 15:18:41 +0000,TraditionalStrengthTraining,3880.862653,sec,718.825 kcal,,America/New_York,47.084 degF,8.71032,7800
+2023-03-30 15:44:23 +0000,2023-03-30 16:38:41 +0000,TraditionalStrengthTraining,3258.362134,sec,591.296 kcal,,America/New_York,,8.5656,
+2023-04-01 21:22:30 +0000,2023-04-01 21:54:02 +0000,TraditionalStrengthTraining,1892.200884,sec,429.989 kcal,,America/New_York,75.2 degF,10.9414,5800
+2023-04-04 15:04:00 +0000,2023-04-04 15:06:28 +0000,TraditionalStrengthTraining,148.314288,sec,10.1882 kcal,,America/New_York,69.602 degF,1.6,7100
+2023-04-06 14:06:00 +0000,2023-04-06 15:42:23 +0000,TraditionalStrengthTraining,5783.226931,sec,1020.18 kcal,,America/New_York,73.796 degF,8.3158,7900
+2023-04-10 14:08:00 +0000,2023-04-10 15:25:56 +0000,TraditionalStrengthTraining,4676.196786,sec,960.298 kcal,,America/New_York,49.19 degF,9.77761,5900
+2023-04-12 13:47:23 +0000,2023-04-12 14:20:48 +0000,TraditionalStrengthTraining,2005.332051,sec,402.518 kcal,,America/New_York,60.206 degF,9.59838,5400
+2023-04-13 13:54:45 +0000,2023-04-13 15:01:07 +0000,TraditionalStrengthTraining,3981.451752,sec,936.879 kcal,,America/New_York,63.86 degF,11.2563,5500
+2023-04-14 17:40:24 +0000,2023-04-14 18:47:44 +0000,TraditionalStrengthTraining,4039.64881,sec,906.973 kcal,,America/New_York,71.186 degF,10.6399,8000
+2023-04-17 16:38:30 +0000,2023-04-17 17:33:08 +0000,TraditionalStrengthTraining,3278.510283,sec,571.216 kcal,,America/New_York,65.966 degF,8.04307,3800
+2023-04-18 13:39:51 +0000,2023-04-18 14:55:58 +0000,TraditionalStrengthTraining,4567.161266,sec,851.352 kcal,,America/New_York,58.388 degF,8.80382,4200
+2023-04-20 13:54:40 +0000,2023-04-20 14:58:59 +0000,TraditionalStrengthTraining,3859.39726,sec,844.567 kcal,,America/New_York,70.52 degF,10.4475,5400
+2023-04-24 16:19:55 +0000,2023-04-24 17:51:21 +0000,TraditionalStrengthTraining,5486.532696,sec,1103.06 kcal,,America/New_York,59.144 degF,9.46426,4500
+2023-04-28 16:32:18 +0000,2023-04-28 17:56:39 +0000,TraditionalStrengthTraining,5061.017649,sec,964.69 kcal,,America/New_York,72.662 degF,9.07998,7400
+2023-05-04 18:13:09 +0000,2023-05-04 19:07:34 +0000,TraditionalStrengthTraining,3264.249358,sec,614.825 kcal,,America/New_York,68.99 degF,8.83389,3800
+2023-05-08 19:21:37 +0000,2023-05-08 20:27:37 +0000,TraditionalStrengthTraining,3959.817039,sec,925.98 kcal,,America/New_York,81.608 degF,11.2129,5300
+2023-05-09 12:37:07 +0000,2023-05-09 13:31:44 +0000,TraditionalStrengthTraining,3276.484453,sec,648.585 kcal,,America/New_York,,9.30295,
+2023-05-11 23:40:04 +0000,2023-05-12 00:19:37 +0000,TraditionalStrengthTraining,2373.247064,sec,236.871 kcal,,America/New_York,75.758 degF,3.78233,5100
+2023-05-16 17:30:37 +0000,2023-05-16 18:33:50 +0000,TraditionalStrengthTraining,3793.117815,sec,809.252 kcal,,America/New_York,,10.165,
+2023-05-17 19:47:25 +0000,2023-05-17 20:33:35 +0000,TraditionalStrengthTraining,2769.81136,sec,583.533 kcal,,America/New_York,81.338 degF,10.1278,3800
+2023-05-21 22:04:52 +0000,2023-05-21 22:54:07 +0000,TraditionalStrengthTraining,2954.836819,sec,705.629 kcal,,America/New_York,75.074 degF,11.4523,5800
+2023-05-24 14:58:12 +0000,2023-05-24 15:44:46 +0000,TraditionalStrengthTraining,2793.937966,sec,492.486 kcal,,America/New_York,66.344 degF,8.17332,4400
+2023-05-25 18:00:38 +0000,2023-05-25 18:54:56 +0000,TraditionalStrengthTraining,3258.145994,sec,520.726 kcal,,America/New_York,73.094 degF,7.19243,5600
+2023-06-01 15:29:27 +0000,2023-06-01 16:23:02 +0000,TraditionalStrengthTraining,3215.301561,sec,587.579 kcal,,America/New_York,73.598 degF,8.68798,6500
+2023-06-05 23:23:34 +0000,2023-06-06 00:18:04 +0000,TraditionalStrengthTraining,3270.260113,sec,471.78 kcal,,America/New_York,77.54 degF,6.49593,4900
+2023-06-06 21:34:11 +0000,2023-06-06 22:35:52 +0000,TraditionalStrengthTraining,3701.123223,sec,432.452 kcal,,America/New_York,83.336 degF,5.04186,3700
+2023-06-11 19:42:48 +0000,2023-06-11 20:53:14 +0000,TraditionalStrengthTraining,4225.745302,sec,895.512 kcal,,America/New_York,87.116 degF,10.0173,3700
+2023-06-13 20:29:50 +0000,2023-06-13 21:26:50 +0000,TraditionalStrengthTraining,3420.195055,sec,624.093 kcal,,America/New_York,83.768 degF,8.59688,3900
+2023-06-15 20:48:31 +0000,2023-06-15 22:08:09 +0000,TraditionalStrengthTraining,4778.280236,sec,1069.18 kcal,,America/New_York,87.296 degF,10.8083,4200
+2023-06-21 18:29:42 +0000,2023-06-21 19:27:25 +0000,TraditionalStrengthTraining,3462.46365,sec,725.934 kcal,,America/New_York,81.302 degF,10.1015,7500
+2023-06-25 15:39:59 +0000,2023-06-25 16:55:52 +0000,TraditionalStrengthTraining,4552.749335,sec,798.247 kcal,,America/New_York,84.146 degF,8.20214,5600
+2023-06-26 20:00:34 +0000,2023-06-26 21:09:07 +0000,TraditionalStrengthTraining,4113.10871,sec,812.571 kcal,,America/New_York,90.896 degF,9.59034,5100
+2023-06-28 23:26:06 +0000,2023-06-29 00:16:45 +0000,TraditionalStrengthTraining,3038.90377,sec,569.452 kcal,,America/New_York,83.75 degF,8.85861,5200
+2023-06-30 18:23:50 +0000,2023-06-30 19:12:02 +0000,TraditionalStrengthTraining,2891.464576,sec,502.881 kcal,,America/New_York,84.488 degF,8.04406,6100
+2023-07-01 21:10:58 +0000,2023-07-01 21:39:55 +0000,TraditionalStrengthTraining,1736.483398,sec,216.598 kcal,,America/New_York,89.564 degF,5.25132,6000
+2023-07-06 18:24:45 +0000,2023-07-06 19:21:24 +0000,TraditionalStrengthTraining,3399.39176,sec,470.626 kcal,,America/New_York,88.61 degF,6.01362,6100
+2023-07-11 15:20:35 +0000,2023-07-11 16:24:44 +0000,TraditionalStrengthTraining,3848.932812,sec,854.441 kcal,,America/New_York,83.696 degF,10.5913,5900
+2023-07-12 17:00:01 +0000,2023-07-12 18:06:53 +0000,TraditionalStrengthTraining,4012.5786,sec,806.553 kcal,,America/New_York,90.158 degF,9.56488,4500
+2023-07-13 16:51:29 +0000,2023-07-13 17:55:25 +0000,TraditionalStrengthTraining,3836.717761,sec,743.111 kcal,,America/New_York,90.392 degF,9.22547,5400
+2023-07-14 23:13:22 +0000,2023-07-14 23:28:32 +0000,TraditionalStrengthTraining,909.7414581,sec,89.29 kcal,,America/New_York,79.772 degF,4.0793,8300
+2023-07-24 20:00:31 +0000,2023-07-24 21:04:10 +0000,TraditionalStrengthTraining,3819.081823,sec,584.588 kcal,,America/New_York,88.79 degF,6.75988,5600
+2023-07-25 16:25:20 +0000,2023-07-25 17:25:51 +0000,TraditionalStrengthTraining,3631.580607,sec,583.155 kcal,,America/New_York,89.798 degF,7.25685,5000
+2023-07-27 17:41:48 +0000,2023-07-27 18:32:02 +0000,TraditionalStrengthTraining,3013.583853,sec,537.586 kcal,,America/New_York,93.542 degF,8.24582,5000
+2023-08-05 16:02:26 +0000,2023-08-05 17:05:50 +0000,TraditionalStrengthTraining,3803.985337,sec,754.76 kcal,,America/New_York,83.66 degF,9.44226,6500
+2023-08-06 15:41:46 +0000,2023-08-06 16:45:22 +0000,TraditionalStrengthTraining,3815.488977,sec,585.102 kcal,,America/New_York,87.458 degF,6.99414,5900
+2023-08-10 17:29:12 +0000,2023-08-10 18:41:36 +0000,TraditionalStrengthTraining,4344.207982,sec,940.014 kcal,,America/New_York,78.134 degF,10.2263,8200
+2023-08-11 15:29:44 +0000,2023-08-11 16:33:45 +0000,TraditionalStrengthTraining,3840.728643,sec,664.613 kcal,,America/New_York,82.274 degF,7.90402,6000
+2023-08-16 23:08:46 +0000,2023-08-16 23:59:30 +0000,TraditionalStrengthTraining,3043.69749,sec,659.239 kcal,,America/New_York,86.216 degF,10.4443,5600
+2023-08-20 17:15:37 +0000,2023-08-20 17:51:48 +0000,TraditionalStrengthTraining,2171.480902,sec,474.005 kcal,,America/New_York,90.248 degF,10.5297,4800
+2023-08-23 16:48:03 +0000,2023-08-23 17:54:11 +0000,TraditionalStrengthTraining,3968.197755,sec,451.541 kcal,,America/New_York,80.726 degF,4.85741,4700
+2023-08-27 22:26:45 +0000,2023-08-27 23:15:26 +0000,TraditionalStrengthTraining,2921.413441,sec,473.455 kcal,,America/New_York,82.67 degF,7.39967,7500
+2023-08-29 15:00:16 +0000,2023-08-29 16:16:35 +0000,TraditionalStrengthTraining,4579.205307,sec,959.516 kcal,,America/New_York,79.682 degF,9.99403,8000
+2023-08-31 15:59:01 +0000,2023-08-31 17:04:12 +0000,TraditionalStrengthTraining,3911.132533,sec,564.998 kcal,,America/New_York,,6.53251,
+2023-09-06 13:56:45 +0000,2023-09-06 14:53:29 +0000,TraditionalStrengthTraining,3404.400021,sec,625.147 kcal,,America/New_York,83.966 degF,8.68366,6900
+2023-09-07 16:07:54 +0000,2023-09-07 17:05:02 +0000,TraditionalStrengthTraining,3427.991117,sec,577.169 kcal,,America/New_York,90.518 degF,7.85947,5600
+2023-09-11 16:08:24 +0000,2023-09-11 17:38:44 +0000,TraditionalStrengthTraining,5419.292623,sec,808.299 kcal,,America/New_York,80.654 degF,6.74432,6700
+2023-09-13 16:10:37 +0000,2023-09-13 17:20:22 +0000,TraditionalStrengthTraining,4184.833187,sec,524.551 kcal,,America/New_York,81.536 degF,5.37,6700
+2023-09-15 15:17:44 +0000,2023-09-15 16:35:57 +0000,TraditionalStrengthTraining,4693.735315,sec,956.252 kcal,,America/New_York,70.322 degF,9.93319,5300
+2023-09-18 15:23:39 +0000,2023-09-18 16:53:01 +0000,TraditionalStrengthTraining,5362.398654,sec,694.671 kcal,,America/New_York,71.186 degF,5.78984,7000
+2023-09-25 15:58:37 +0000,2023-09-25 17:23:32 +0000,TraditionalStrengthTraining,5095.481608,sec,982.149 kcal,,America/New_York,76.136 degF,9.36918,6900
+2023-09-27 10:31:16 +0000,2023-09-27 11:43:20 +0000,TraditionalStrengthTraining,4324.262185,sec,697.334 kcal,,America/New_York,61.592 degF,7.38812,8800
+2023-09-30 17:02:53 +0000,2023-09-30 18:19:51 +0000,TraditionalStrengthTraining,4617.414438,sec,897.215 kcal,,America/New_York,73.742 degF,9.33404,6900
+2023-10-03 17:00:00 +0000,2023-10-03 17:54:35 +0000,TraditionalStrengthTraining,3275.532401,sec,612.208 kcal,,America/New_York,78.134 degF,8.9139,5700
+2023-10-04 16:12:36 +0000,2023-10-04 17:29:09 +0000,TraditionalStrengthTraining,4592.28692,sec,868.485 kcal,,America/New_York,75.596 degF,9.07265,6000
+2023-10-05 16:31:54 +0000,2023-10-05 17:13:22 +0000,TraditionalStrengthTraining,2488.479458,sec,492.312 kcal,,America/New_York,77.162 degF,9.59593,6300
+2023-10-11 16:37:11 +0000,2023-10-11 17:49:53 +0000,TraditionalStrengthTraining,4361.747797,sec,760.152 kcal,,America/New_York,71.78 degF,8.19011,5000
+2023-10-13 17:00:14 +0000,2023-10-13 18:10:19 +0000,TraditionalStrengthTraining,4204.905669,sec,903.66 kcal,,America/New_York,75.146 degF,10.4629,5600
+2023-10-16 16:08:50 +0000,2023-10-16 16:59:44 +0000,TraditionalStrengthTraining,3053.834437,sec,445.428 kcal,,America/New_York,59.18 degF,6.72469,5600
+2023-10-18 16:09:57 +0000,2023-10-18 17:26:23 +0000,TraditionalStrengthTraining,4586.023473,sec,806.628 kcal,,America/New_York,65.39 degF,8.60958,6000
+2023-10-19 18:08:42 +0000,2023-10-19 18:20:00 +0000,TraditionalStrengthTraining,677.391354,sec,86.165 kcal,,America/New_York,70.412 degF,5.5074,4900
+2023-10-20 16:56:13 +0000,2023-10-20 17:47:33 +0000,TraditionalStrengthTraining,3079.46516,sec,558.464 kcal,,America/New_York,70.358 degF,8.90162,6000
+2023-10-21 16:42:53 +0000,2023-10-21 18:13:58 +0000,TraditionalStrengthTraining,5465.006663,sec,1050.32 kcal,,America/New_York,63.968 degF,9.18438,5400
+2023-10-23 14:41:35 +0000,2023-10-23 16:14:01 +0000,TraditionalStrengthTraining,5546.170658,sec,989.136 kcal,,America/New_York,54.59 degF,8.4906,6200
+2023-10-25 00:18:11 +0000,2023-10-25 01:18:22 +0000,TraditionalStrengthTraining,3610.351945,sec,377.808 kcal,,America/New_York,57.398 degF,4.1472,6500
+2023-10-25 15:07:12 +0000,2023-10-25 16:38:10 +0000,TraditionalStrengthTraining,5458.554113,sec,912.461 kcal,,America/New_York,64.04 degF,7.90991,6900
+2023-10-26 10:56:08 +0000,2023-10-26 11:59:58 +0000,TraditionalStrengthTraining,3830.396692,sec,737.355 kcal,,America/New_York,52.538 degF,9.03822,9600
+2023-10-27 16:11:09 +0000,2023-10-27 17:22:02 +0000,TraditionalStrengthTraining,4252.567676,sec,882.963 kcal,,America/New_York,74.534 degF,10.0477,6600
+2023-11-01 01:13:26 +0000,2023-11-01 02:11:54 +0000,TraditionalStrengthTraining,3508.233873,sec,413.609 kcal,,America/New_York,46.544 degF,5.17234,8900
+2023-11-01 15:19:48 +0000,2023-11-01 16:55:25 +0000,TraditionalStrengthTraining,5736.502381,sec,949.613 kcal,,America/New_York,42.602 degF,7.52582,4400
+2023-11-02 15:20:47 +0000,2023-11-02 16:19:04 +0000,TraditionalStrengthTraining,3497.299473,sec,744.915 kcal,,America/New_York,45.86 degF,10.1712,4600
+2023-11-03 15:39:28 +0000,2023-11-03 17:06:36 +0000,TraditionalStrengthTraining,5227.890797,sec,1119.06 kcal,,America/New_York,51.098 degF,10.3446,5400
+2023-11-06 15:58:58 +0000,2023-11-06 17:18:11 +0000,TraditionalStrengthTraining,4753.214633,sec,830.817 kcal,,America/New_York,64.58 degF,8.23803,5000
+2023-11-08 01:45:40 +0000,2023-11-08 02:47:04 +0000,TraditionalStrengthTraining,3684.677091,sec,600.761 kcal,,America/New_York,63.248 degF,7.6593,6500
+2023-11-08 14:08:02 +0000,2023-11-08 15:09:32 +0000,TraditionalStrengthTraining,3689.898867,sec,635.717 kcal,,America/New_York,61.466 degF,7.93381,7200
+2023-11-09 18:00:39 +0000,2023-11-09 19:02:36 +0000,TraditionalStrengthTraining,3716.73369,sec,852.937 kcal,,America/New_York,77.018 degF,10.9893,5200
+2023-11-13 15:51:52 +0000,2023-11-13 17:05:39 +0000,TraditionalStrengthTraining,4427.1944,sec,731.108 kcal,,America/New_York,52.646 degF,7.63475,5700
+2023-11-15 00:52:37 +0000,2023-11-15 02:23:19 +0000,TraditionalStrengthTraining,5442.440219,sec,1126.1 kcal,,America/New_York,50.144 degF,9.91619,5600
+2023-11-15 15:55:49 +0000,2023-11-15 17:25:08 +0000,TraditionalStrengthTraining,5358.950651,sec,939.676 kcal,,America/New_York,53.726 degF,8.22162,5800
+2023-11-17 16:02:50 +0000,2023-11-17 17:02:33 +0000,TraditionalStrengthTraining,3582.874845,sec,574.978 kcal,,America/New_York,65.678 degF,7.41443,7200
+2023-11-20 16:13:15 +0000,2023-11-20 17:20:53 +0000,TraditionalStrengthTraining,4057.34911,sec,825.013 kcal,,America/New_York,55.454 degF,9.79089,4700
+2023-11-27 15:40:02 +0000,2023-11-27 16:59:49 +0000,TraditionalStrengthTraining,4772.021503,sec,636.442 kcal,,America/New_York,48.182 degF,5.81355,6500
+2023-11-29 01:23:37 +0000,2023-11-29 02:39:52 +0000,TraditionalStrengthTraining,4575.213244,sec,642.684 kcal,,America/New_York,35.672 degF,6.47661,4400
+2023-11-29 15:55:28 +0000,2023-11-29 17:57:02 +0000,TraditionalStrengthTraining,7294.558507,sec,845.039 kcal,,America/New_York,36.446 degF,4.98762,4200
+2023-11-30 18:12:17 +0000,2023-11-30 19:30:48 +0000,TraditionalStrengthTraining,4711.166658,sec,793.37 kcal,,America/New_York,58.1 degF,7.90637,4100
+2023-12-01 19:19:45 +0000,2023-12-01 20:22:17 +0000,TraditionalStrengthTraining,3751.574748,sec,683.903 kcal,,America/New_York,61.502 degF,8.47956,7300
+2023-12-02 14:08:16 +0000,2023-12-02 15:28:04 +0000,TraditionalStrengthTraining,4787.673076,sec,1146.51 kcal,,America/New_York,,11.5253,
+2023-12-04 15:47:11 +0000,2023-12-04 16:55:57 +0000,TraditionalStrengthTraining,4125.704088,sec,627.267 kcal,,America/New_York,54.752 degF,6.82088,5800
+2023-12-05 16:30:07 +0000,2023-12-05 17:31:23 +0000,TraditionalStrengthTraining,3675.706781,sec,602.09 kcal,,America/New_York,51.944 degF,7.47218,5600
+2023-12-06 16:06:21 +0000,2023-12-06 17:26:18 +0000,TraditionalStrengthTraining,4796.918906,sec,856.812 kcal,,America/New_York,45.05 degF,8.37628,7200
+2023-12-09 19:05:24 +0000,2023-12-09 20:23:24 +0000,TraditionalStrengthTraining,4680.06847,sec,912.997 kcal,,America/New_York,70.196 degF,9.3512,5500
+2023-12-10 22:16:51 +0000,2023-12-10 23:30:35 +0000,TraditionalStrengthTraining,4423.676724,sec,830.345 kcal,,America/New_York,65.048 degF,8.85376,9300
+2023-12-11 14:40:27 +0000,2023-12-11 15:33:03 +0000,TraditionalStrengthTraining,3156.129827,sec,531.91 kcal,,America/New_York,40.532 degF,7.94148,7100
+2023-12-12 22:45:31 +0000,2023-12-12 23:58:01 +0000,TraditionalStrengthTraining,4349.205957,sec,826.878 kcal,,America/New_York,44.888 degF,9.04091,5800
+2023-12-13 18:28:48 +0000,2023-12-13 19:50:55 +0000,TraditionalStrengthTraining,4927.495373,sec,837.792 kcal,,America/New_York,55.994 degF,7.95568,4600
+2023-12-17 00:49:35 +0000,2023-12-17 01:52:13 +0000,TraditionalStrengthTraining,3757.46609,sec,622.004 kcal,,America/New_York,52.232 degF,7.58731,7100
+2023-12-19 01:10:05 +0000,2023-12-19 01:58:17 +0000,TraditionalStrengthTraining,2891.88104,sec,508.278 kcal,,America/New_York,51.584 degF,8.24041,7600
+2023-12-20 01:34:07 +0000,2023-12-20 02:39:40 +0000,TraditionalStrengthTraining,3932.917836,sec,765.418 kcal,,America/New_York,38.264 degF,9.13705,6400
+2023-12-21 02:22:07 +0000,2023-12-21 03:03:47 +0000,TraditionalStrengthTraining,2499.787544,sec,462.097 kcal,,America/New_York,37.562 degF,8.67389,7000
+2023-12-27 01:29:56 +0000,2023-12-27 02:34:28 +0000,TraditionalStrengthTraining,3871.953424,sec,623.41 kcal,,America/New_York,62.294 degF,7.4546,9000
+2023-12-28 01:51:28 +0000,2023-12-28 02:58:13 +0000,TraditionalStrengthTraining,3821.920623,sec,526.962 kcal,,America/New_York,61.502 degF,5.76222,9500
+2023-12-29 01:49:47 +0000,2023-12-29 02:48:22 +0000,TraditionalStrengthTraining,3515.676162,sec,535.255 kcal,,America/New_York,51.314 degF,6.79295,7900
+2024-01-04 01:36:05 +0000,2024-01-04 02:42:37 +0000,TraditionalStrengthTraining,3992.085038,sec,741.987 kcal,,America/New_York,47.804 degF,8.75339,7300
+2024-01-05 17:02:55 +0000,2024-01-05 18:13:39 +0000,TraditionalStrengthTraining,4243.365638,sec,774.334 kcal,,America/New_York,40.622 degF,8.67049,4900
+2024-01-06 20:23:14 +0000,2024-01-06 21:28:08 +0000,TraditionalStrengthTraining,3894.579364,sec,810.045 kcal,,America/New_York,58.154 degF,9.95034,9200
+2024-01-07 17:39:13 +0000,2024-01-07 18:40:00 +0000,TraditionalStrengthTraining,3646.667413,sec,702.03 kcal,,America/New_York,54.374 degF,9.25149,5700
+2024-01-09 15:13:06 +0000,2024-01-09 16:43:13 +0000,TraditionalStrengthTraining,5407.486764,sec,584.241 kcal,,America/New_York,51.314 degF,4.29961,9500
+2024-01-10 13:19:37 +0000,2024-01-10 14:22:43 +0000,TraditionalStrengthTraining,3785.683292,sec,544.801 kcal,,America/New_York,40.208 degF,6.36257,7000
+2024-01-11 14:45:47 +0000,2024-01-11 15:56:59 +0000,TraditionalStrengthTraining,4272.035483,sec,707.574 kcal,,America/New_York,39.56 degF,7.81083,8000
+2024-01-13 19:08:06 +0000,2024-01-13 19:57:48 +0000,TraditionalStrengthTraining,2981.536782,sec,677.141 kcal,,America/New_York,50.504 degF,10.93,4600
+2024-01-15 18:01:48 +0000,2024-01-15 19:32:31 +0000,TraditionalStrengthTraining,5443.403158,sec,891.217 kcal,,America/New_York,48.11 degF,7.52703,6500
+2024-01-16 14:38:52 +0000,2024-01-16 15:45:02 +0000,TraditionalStrengthTraining,3970.178778,sec,483.656 kcal,,America/New_York,41.306 degF,5.082,9300
+2024-01-17 14:31:44 +0000,2024-01-17 15:43:30 +0000,TraditionalStrengthTraining,4306.117029,sec,536.958 kcal,,America/New_York,22.316 degF,5.3303,6000
+2024-01-18 14:41:00 +0000,2024-01-18 15:53:51 +0000,TraditionalStrengthTraining,4371.360145,sec,737.894 kcal,,America/New_York,32.72 degF,7.91353,6300
+2024-01-19 18:24:01 +0000,2024-01-19 19:39:18 +0000,TraditionalStrengthTraining,4517.550496,sec,929.485 kcal,,America/New_York,50.27 degF,9.94214,5100
+2024-01-20 19:43:51 +0000,2024-01-20 20:19:47 +0000,TraditionalStrengthTraining,2156.176608,sec,496.985 kcal,,America/New_York,32.846 degF,11.0704,3600
+2024-01-22 14:18:11 +0000,2024-01-22 15:23:19 +0000,TraditionalStrengthTraining,3908.20801,sec,520.004 kcal,,America/New_York,27.41 degF,5.72094,7000
+2024-01-23 14:56:38 +0000,2024-01-23 16:07:56 +0000,TraditionalStrengthTraining,4278.318954,sec,775.153 kcal,,America/New_York,42.404 degF,8.55208,6100
+2024-01-24 14:00:21 +0000,2024-01-24 14:54:56 +0000,TraditionalStrengthTraining,3275.797238,sec,621.91 kcal,,America/New_York,50.828 degF,8.95453,9100
+2024-01-25 14:41:27 +0000,2024-01-25 15:55:10 +0000,TraditionalStrengthTraining,4423.234462,sec,855.065 kcal,,America/New_York,64.598 degF,9.26395,9600
+2024-01-29 14:34:09 +0000,2024-01-29 15:38:05 +0000,TraditionalStrengthTraining,3836.017708,sec,612.262 kcal,,America/New_York,45.104 degF,7.2381,6500
+2024-01-30 14:44:26 +0000,2024-01-30 16:09:26 +0000,TraditionalStrengthTraining,5100.472234,sec,723.78 kcal,,America/New_York,39.794 degF,6.21787,7000
+2024-01-31 23:30:01 +0000,2024-02-01 00:46:26 +0000,TraditionalStrengthTraining,4585.438918,sec,1125.82 kcal,,America/New_York,44.096 degF,11.6179,7900
+2024-02-01 14:44:33 +0000,2024-02-01 15:48:59 +0000,TraditionalStrengthTraining,3865.183573,sec,903.861 kcal,,America/New_York,42.26 degF,11.213,7500
+2024-02-02 17:19:34 +0000,2024-02-02 18:45:32 +0000,TraditionalStrengthTraining,5157.749088,sec,894.721 kcal,,America/New_York,60.242 degF,8.0361,5100
+2024-02-03 19:35:07 +0000,2024-02-03 20:35:38 +0000,TraditionalStrengthTraining,3631.018321,sec,468.994 kcal,,America/New_York,51.71 degF,5.46604,4500
+2024-02-05 19:28:22 +0000,2024-02-05 20:51:39 +0000,TraditionalStrengthTraining,4996.804273,sec,1012.63 kcal,,America/New_York,55.598 degF,9.5904,3500
+2024-02-06 15:10:27 +0000,2024-02-06 16:03:42 +0000,TraditionalStrengthTraining,3195.720152,sec,464.391 kcal,,America/New_York,41.486 degF,6.46993,6000
+2024-02-07 13:57:22 +0000,2024-02-07 15:14:17 +0000,TraditionalStrengthTraining,4614.320418,sec,856.277 kcal,,America/New_York,34.682 degF,8.68208,5900
+2024-02-08 15:19:08 +0000,2024-02-08 16:44:04 +0000,TraditionalStrengthTraining,5096.110155,sec,817.101 kcal,,America/New_York,44.276 degF,7.23371,6500
+2024-02-09 19:56:06 +0000,2024-02-09 21:24:47 +0000,TraditionalStrengthTraining,5321.243781,sec,1077.13 kcal,,America/New_York,58.55 degF,9.5956,6100
+2024-02-10 18:58:06 +0000,2024-02-10 19:50:19 +0000,TraditionalStrengthTraining,3133.324364,sec,709.047 kcal,,America/New_York,72.842 degF,10.8059,5700
+2024-02-12 16:55:01 +0000,2024-02-12 18:07:18 +0000,TraditionalStrengthTraining,4337.198927,sec,669.931 kcal,,America/New_York,58.82 degF,7.08637,9500
+2024-02-13 18:51:36 +0000,2024-02-13 20:27:05 +0000,TraditionalStrengthTraining,5729.165153,sec,877.755 kcal,,America/New_York,,6.93494,
+2024-02-14 20:05:43 +0000,2024-02-14 21:28:37 +0000,TraditionalStrengthTraining,4974.111783,sec,1012.83 kcal,,America/New_York,,9.83168,
+2024-02-15 17:39:21 +0000,2024-02-15 19:02:29 +0000,TraditionalStrengthTraining,4987.427372,sec,798.718 kcal,,America/New_York,,7.34995,
+2024-02-16 19:38:07 +0000,2024-02-16 21:38:47 +0000,TraditionalStrengthTraining,7240.18581,sec,1362.34 kcal,,America/New_York,60.944 degF,9.01091,3300
+2024-02-17 19:30:33 +0000,2024-02-17 20:29:16 +0000,TraditionalStrengthTraining,3523.405838,sec,752.362 kcal,,America/New_York,50.288 degF,10.3017,4000
+2024-02-19 17:21:23 +0000,2024-02-19 18:26:19 +0000,TraditionalStrengthTraining,3896.325687,sec,729.761 kcal,,America/New_York,51.386 degF,8.74298,3800
+2024-02-20 20:11:03 +0000,2024-02-20 21:51:43 +0000,TraditionalStrengthTraining,6040.503782,sec,942.177 kcal,,America/New_York,55.616 degF,7.15486,3900
+2024-02-21 23:24:35 +0000,2024-02-22 00:35:27 +0000,TraditionalStrengthTraining,4251.805632,sec,736.995 kcal,,America/New_York,48.848 degF,8.12693,5500
+2024-02-22 14:44:11 +0000,2024-02-22 16:32:26 +0000,TraditionalStrengthTraining,6494.505725,sec,895.325 kcal,,America/New_York,46.346 degF,5.858,6100
+2024-02-23 20:52:39 +0000,2024-02-23 23:09:37 +0000,TraditionalStrengthTraining,8218.377493,sec,973.254 kcal,,America/New_York,56.228 degF,4.91626,8700
+2024-02-26 21:35:20 +0000,2024-02-26 23:15:48 +0000,TraditionalStrengthTraining,6028.075088,sec,779.304 kcal,,America/New_York,67.82 degF,5.61001,4200
+2024-02-27 14:35:21 +0000,2024-02-27 16:05:35 +0000,TraditionalStrengthTraining,5413.758175,sec,746.207 kcal,,America/New_York,57.506 degF,6.00453,6600
+2024-02-28 18:22:20 +0000,2024-02-28 19:20:54 +0000,TraditionalStrengthTraining,3514.04857,sec,674.821 kcal,,America/New_York,,8.96345,
+2024-02-29 20:03:08 +0000,2024-02-29 21:44:08 +0000,TraditionalStrengthTraining,6060.020382,sec,1342.5 kcal,,America/New_York,,10.4594,
+2024-03-02 17:52:51 +0000,2024-03-02 18:45:29 +0000,TraditionalStrengthTraining,3157.708684,sec,742.573 kcal,,America/New_York,,11.2871,
+2024-03-04 20:30:28 +0000,2024-03-04 21:34:33 +0000,TraditionalStrengthTraining,3844.778632,sec,730.832 kcal,,America/New_York,66.11 degF,9.08584,6500
+2024-03-05 15:28:31 +0000,2024-03-05 16:35:22 +0000,TraditionalStrengthTraining,4010.975214,sec,461.581 kcal,,America/New_York,61.34 degF,4.61266,7700
+2024-03-07 01:24:25 +0000,2024-03-07 02:17:08 +0000,TraditionalStrengthTraining,3162.50406,sec,634.012 kcal,,America/New_York,56.876 degF,9.32841,9000
+2024-03-07 21:35:39 +0000,2024-03-07 23:25:42 +0000,TraditionalStrengthTraining,6603.218482,sec,1375.72 kcal,,America/New_York,68.234 degF,10.0715,6000
+2024-03-08 21:51:55 +0000,2024-03-08 23:49:29 +0000,TraditionalStrengthTraining,7053.940323,sec,1372.42 kcal,,America/New_York,63.014 degF,9.29955,5800
+2024-03-11 22:08:08 +0000,2024-03-11 23:03:54 +0000,TraditionalStrengthTraining,3346.154294,sec,665.4 kcal,,America/New_York,59.144 degF,9.29508,3000
+2024-03-12 17:22:00 +0000,2024-03-12 18:35:53 +0000,TraditionalStrengthTraining,4432.982176,sec,871.738 kcal,,America/New_York,67.46 degF,9.1921,2800
+2024-03-15 17:58:44 +0000,2024-03-15 19:01:52 +0000,TraditionalStrengthTraining,3788.053409,sec,691.276 kcal,,America/New_York,77.972 degF,8.43491,4900
+2024-03-18 17:20:13 +0000,2024-03-18 18:34:27 +0000,TraditionalStrengthTraining,4453.807172,sec,513.906 kcal,,America/New_York,56.66 degF,4.8804,3300
+2024-03-19 14:17:06 +0000,2024-03-19 15:32:10 +0000,TraditionalStrengthTraining,4504.447898,sec,627.267 kcal,,America/New_York,39.92 degF,6.22389,4700
+2024-03-20 17:42:20 +0000,2024-03-20 19:18:23 +0000,TraditionalStrengthTraining,5763.129623,sec,1031.23 kcal,,America/New_York,67.586 degF,8.42002,3200
+2024-03-21 19:37:19 +0000,2024-03-21 21:28:20 +0000,TraditionalStrengthTraining,6660.635495,sec,1182.63 kcal,,America/New_York,63.572 degF,8.2606,3000
+2024-03-23 17:35:03 +0000,2024-03-23 18:25:11 +0000,TraditionalStrengthTraining,3007.739673,sec,593.115 kcal,,America/New_York,56.156 degF,9.29127,8700
+2024-03-25 19:11:32 +0000,2024-03-25 20:41:17 +0000,TraditionalStrengthTraining,5385.335014,sec,1008.25 kcal,,America/New_York,60.188 degF,8.72272,4400
+2024-03-26 14:16:00 +0000,2024-03-26 15:24:34 +0000,TraditionalStrengthTraining,4114.489986,sec,608.97 kcal,,America/New_York,47.426 degF,6.54479,6700
+2024-03-28 13:44:14 +0000,2024-03-28 14:54:57 +0000,TraditionalStrengthTraining,4243.664684,sec,686.951 kcal,,America/New_York,49.532 degF,7.26617,9700
+2024-04-02 18:03:49 +0000,2024-04-02 18:21:58 +0000,TraditionalStrengthTraining,1089.341722,sec,115.496 kcal,,America/New_York,,4.0812,
+2024-04-03 20:51:10 +0000,2024-04-03 21:52:55 +0000,TraditionalStrengthTraining,3705.338694,sec,687.367 kcal,,America/New_York,,8.71569,
+2024-04-04 14:16:17 +0000,2024-04-04 15:17:18 +0000,TraditionalStrengthTraining,3660.454517,sec,418.737 kcal,,America/New_York,,4.69548,
+2024-04-05 18:48:45 +0000,2024-04-05 19:35:47 +0000,TraditionalStrengthTraining,2822.330286,sec,611.824 kcal,,America/New_York,,10.3155,
+2024-04-09 01:02:17 +0000,2024-04-09 01:33:30 +0000,TraditionalStrengthTraining,1872.450922,sec,277.494 kcal,,America/New_York,65.696 degF,6.64649,5700
+2024-04-09 15:03:32 +0000,2024-04-09 15:54:23 +0000,TraditionalStrengthTraining,3051.579009,sec,413.812 kcal,,America/New_York,66.74 degF,6.03443,6400
+2024-04-11 14:54:50 +0000,2024-04-11 15:48:47 +0000,TraditionalStrengthTraining,3236.873952,sec,609.447 kcal,,America/New_York,66.614 degF,8.88315,8800
+2024-04-12 11:09:58 +0000,2024-04-12 12:16:03 +0000,TraditionalStrengthTraining,3964.585395,sec,724.573 kcal,,America/New_York,56.21 degF,8.45733,6700
+2024-04-16 14:17:39 +0000,2024-04-16 15:12:39 +0000,TraditionalStrengthTraining,3300.082956,sec,413.794 kcal,,America/New_York,71.132 degF,5.45347,6200
+2024-04-18 00:49:24 +0000,2024-04-18 01:43:12 +0000,TraditionalStrengthTraining,3227.443535,sec,636.478 kcal,,America/New_York,72.032 degF,9.33254,5900
+2024-04-18 14:58:52 +0000,2024-04-18 15:40:03 +0000,TraditionalStrengthTraining,2471.339045,sec,536.073 kcal,,America/New_York,75.686 degF,10.4086,5400
+2024-04-22 15:29:55 +0000,2024-04-22 16:29:02 +0000,TraditionalStrengthTraining,3547.020832,sec,646.679 kcal,,America/New_York,52.358 degF,8.55476,5200
+2024-04-23 16:03:43 +0000,2024-04-23 17:04:38 +0000,TraditionalStrengthTraining,3654.760272,sec,718.099 kcal,,America/New_York,64.436 degF,9.3276,4100
+2024-04-24 17:49:12 +0000,2024-04-24 18:38:20 +0000,TraditionalStrengthTraining,1875.578996,sec,319.657 kcal,,America/New_York,72.212 degF,6.57985,4900
+2024-04-25 22:20:27 +0000,2024-04-25 23:37:04 +0000,TraditionalStrengthTraining,4596.988264,sec,843.391 kcal,,America/New_York,71.33 degF,8.55601,4900
+2024-04-28 00:52:39 +0000,2024-04-28 01:51:27 +0000,TraditionalStrengthTraining,3527.447232,sec,673 kcal,,America/New_York,67.46 degF,9.03997,6900
+2024-04-29 21:16:06 +0000,2024-04-29 21:23:17 +0000,TraditionalStrengthTraining,430.9316809,sec,36.481 kcal,,America/New_York,81.788 degF,2.78119,4500
+2024-04-30 20:46:07 +0000,2024-04-30 22:11:56 +0000,TraditionalStrengthTraining,5148.825502,sec,760.589 kcal,,America/New_York,80.852 degF,6.7615,4900
+2024-05-02 15:06:22 +0000,2024-05-02 16:14:32 +0000,TraditionalStrengthTraining,4079.663162,sec,790.192 kcal,,America/New_York,80.69 degF,9.18406,5300
+2024-05-07 03:46:10 +0000,2024-05-07 03:59:04 +0000,TraditionalStrengthTraining,774.684401,sec,62.9697 kcal,,America/New_York,66.992 degF,2.6151,9600
+2024-05-08 22:11:52 +0000,2024-05-08 23:33:53 +0000,TraditionalStrengthTraining,4920.518505,sec,1009.51 kcal,,America/New_York,84.38 degF,9.54793,6000
+2024-05-09 20:26:19 +0000,2024-05-09 21:35:03 +0000,TraditionalStrengthTraining,4123.910364,sec,913.722 kcal,,America/New_York,82.49 degF,10.3526,6700
+2024-05-10 18:01:08 +0000,2024-05-10 18:56:32 +0000,TraditionalStrengthTraining,3323.593452,sec,750.496 kcal,,America/New_York,79.016 degF,10.8622,5400
+2024-05-12 20:09:34 +0000,2024-05-12 20:48:19 +0000,TraditionalStrengthTraining,2325.233187,sec,429.172 kcal,,America/New_York,75.542 degF,8.72337,3300
+2024-05-13 20:04:08 +0000,2024-05-13 21:57:16 +0000,TraditionalStrengthTraining,6788.069458,sec,790.316 kcal,,America/New_York,78.53 degF,4.9047,4100
+2024-05-14 21:53:18 +0000,2024-05-14 22:57:46 +0000,TraditionalStrengthTraining,3868.648705,sec,647.686 kcal,,America/New_York,67.73 degF,7.92704,8900
+2024-05-15 23:45:40 +0000,2024-05-16 00:05:47 +0000,TraditionalStrengthTraining,1206.134411,sec,237.992 kcal,,America/New_York,69.368 degF,9.37586,8100
+2024-05-16 23:38:06 +0000,2024-05-17 00:52:13 +0000,TraditionalStrengthTraining,4447.274699,sec,627.691 kcal,,America/New_York,75.848 degF,6.3097,6500
+2024-05-20 19:46:45 +0000,2024-05-20 21:28:22 +0000,TraditionalStrengthTraining,6097.23997,sec,797.114 kcal,,America/New_York,78.908 degF,5.83023,5400
+2024-05-22 03:22:55 +0000,2024-05-22 03:43:26 +0000,TraditionalStrengthTraining,1231.184509,sec,262.906 kcal,,America/New_York,68.684 degF,10.1431,7700
+2024-05-27 20:50:57 +0000,2024-05-27 22:20:47 +0000,TraditionalStrengthTraining,5390.012888,sec,624.827 kcal,,America/New_York,84.074 degF,4.98176,6100
+2024-05-28 23:46:03 +0000,2024-05-29 00:11:30 +0000,TraditionalStrengthTraining,1527.678289,sec,280.497 kcal,,America/New_York,78.512 degF,8.54756,5200
+2024-06-02 20:04:32 +0000,2024-06-02 20:57:06 +0000,TraditionalStrengthTraining,3154.670562,sec,718.386 kcal,,America/New_York,,10.9711,
+2024-06-03 23:03:10 +0000,2024-06-04 00:42:21 +0000,TraditionalStrengthTraining,5950.305091,sec,522.623 kcal,,America/New_York,80.168 degF,3.04638,6400
+2024-06-04 15:43:56 +0000,2024-06-04 16:39:09 +0000,TraditionalStrengthTraining,3312.489995,sec,529.005 kcal,,America/New_York,83.354 degF,7.31307,6400
+2024-06-05 21:30:23 +0000,2024-06-05 22:07:19 +0000,TraditionalStrengthTraining,2216.54178,sec,367.147 kcal,,America/New_York,85.91 degF,7.81282,5700
+2024-06-06 14:30:12 +0000,2024-06-06 15:34:53 +0000,TraditionalStrengthTraining,3881.191922,sec,726.366 kcal,,America/New_York,79.88 degF,8.54269,7100
+2024-06-08 22:27:09 +0000,2024-06-08 23:08:29 +0000,TraditionalStrengthTraining,2479.34066,sec,401.784 kcal,,America/New_York,84.668 degF,7.30181,4000
+2024-06-10 18:39:40 +0000,2024-06-10 19:34:14 +0000,TraditionalStrengthTraining,3273.815801,sec,602.922 kcal,,America/New_York,82.85 degF,8.65163,3700
+2024-06-17 19:39:10 +0000,2024-06-17 20:50:25 +0000,TraditionalStrengthTraining,4275.558309,sec,651.519 kcal,,America/New_York,90.302 degF,7.11286,5200
+2024-06-19 19:22:03 +0000,2024-06-19 20:14:24 +0000,TraditionalStrengthTraining,3141.061588,sec,533.185 kcal,,America/New_York,88.628 degF,7.88633,4700
+2024-06-20 17:24:27 +0000,2024-06-20 18:21:11 +0000,TraditionalStrengthTraining,3403.722797,sec,640.189 kcal,,America/New_York,86.288 degF,8.83567,5000
+2024-06-21 16:38:32 +0000,2024-06-21 17:07:38 +0000,TraditionalStrengthTraining,1745.121987,sec,381.639 kcal,,America/New_York,87.494 degF,10.562,5000
+2024-06-24 21:26:37 +0000,2024-06-24 23:45:44 +0000,TraditionalStrengthTraining,8346.863912,sec,688.268 kcal,,America/New_York,92.282 degF,2.79287,4500
+2024-06-25 21:08:04 +0000,2024-06-25 22:57:34 +0000,TraditionalStrengthTraining,6570.295881,sec,877.328 kcal,,America/New_York,93.29 degF,5.69723,3800
+2024-07-02 16:24:54 +0000,2024-07-02 17:19:29 +0000,TraditionalStrengthTraining,3274.915871,sec,533.437 kcal,,America/New_York,80.996 degF,7.49345,5000
+2024-07-03 12:56:08 +0000,2024-07-03 13:43:27 +0000,TraditionalStrengthTraining,2838.741924,sec,513.081 kcal,,America/New_York,73.85 degF,8.48002,7700
+2024-07-08 21:37:53 +0000,2024-07-08 23:16:17 +0000,TraditionalStrengthTraining,5904.207442,sec,738.106 kcal,,America/New_York,88.232 degF,5.50699,6400
+2024-07-09 22:39:20 +0000,2024-07-09 23:35:36 +0000,TraditionalStrengthTraining,3375.749785,sec,360.817 kcal,,America/New_York,90.374 degF,4.23057,6100
+2024-07-10 19:14:38 +0000,2024-07-10 20:18:20 +0000,TraditionalStrengthTraining,3821.987592,sec,755.488 kcal,,America/New_York,94.028 degF,9.35523,6000
+2024-07-11 16:13:04 +0000,2024-07-11 17:05:55 +0000,TraditionalStrengthTraining,3171.47156,sec,724.492 kcal,,America/New_York,85.316 degF,10.9647,5700
+2024-07-12 15:06:27 +0000,2024-07-12 16:06:12 +0000,TraditionalStrengthTraining,3585.114749,sec,667.206 kcal,,America/New_York,79.016 degF,8.74628,8700
+2024-07-15 21:26:58 +0000,2024-07-15 23:26:29 +0000,TraditionalStrengthTraining,7171.602725,sec,647.996 kcal,,America/New_York,95.216 degF,3.40186,4800
+2024-07-16 21:30:19 +0000,2024-07-16 22:42:58 +0000,TraditionalStrengthTraining,4359.010779,sec,376.735 kcal,,America/New_York,92.714 degF,3.00854,5700
+2024-07-17 21:32:59 +0000,2024-07-17 22:43:52 +0000,TraditionalStrengthTraining,4253.298529,sec,897.193 kcal,,America/New_York,88.502 degF,10.2369,6500
+2024-07-18 21:26:43 +0000,2024-07-18 23:23:07 +0000,TraditionalStrengthTraining,6983.977048,sec,1510.87 kcal,,America/New_York,86.432 degF,10.4651,6900
+2024-07-19 20:16:26 +0000,2024-07-19 22:31:46 +0000,TraditionalStrengthTraining,8120.002947,sec,1275.3 kcal,,America/New_York,83.372 degF,7.20272,7400
+2024-07-22 21:29:52 +0000,2024-07-22 23:31:24 +0000,TraditionalStrengthTraining,7292.525075,sec,651.679 kcal,,America/New_York,83.336 degF,3.12267,7500
+2024-07-29 17:45:52 +0000,2024-07-29 18:49:33 +0000,TraditionalStrengthTraining,3820.179975,sec,787.264 kcal,,America/New_York,76.802 degF,9.81529,8400
+2024-07-31 16:54:24 +0000,2024-07-31 17:56:59 +0000,TraditionalStrengthTraining,3754.49025,sec,697.119 kcal,,America/New_York,88.736 degF,8.70102,6200
+2024-08-01 17:47:05 +0000,2024-08-01 18:47:01 +0000,TraditionalStrengthTraining,3595.997213,sec,751.655 kcal,,America/New_York,93.182 degF,10.0743,5600
+2024-08-02 12:36:53 +0000,2024-08-02 13:38:58 +0000,TraditionalStrengthTraining,3725.317134,sec,743.611 kcal,,America/New_York,79.898 degF,9.58553,8400
+2024-08-06 19:42:30 +0000,2024-08-06 20:46:17 +0000,TraditionalStrengthTraining,3827.235605,sec,366.476 kcal,,America/New_York,79.556 degF,3.53087,8100
+2024-08-08 18:40:02 +0000,2024-08-08 19:37:17 +0000,TraditionalStrengthTraining,3435.517388,sec,748.518 kcal,,America/New_York,79.16 degF,10.5142,8800
+2024-08-09 16:41:58 +0000,2024-08-09 17:31:53 +0000,TraditionalStrengthTraining,2995.029835,sec,597.145 kcal,,America/New_York,80.366 degF,9.5922,8200
+2024-08-14 23:33:43 +0000,2024-08-15 00:26:48 +0000,TraditionalStrengthTraining,3184.148451,sec,661.054 kcal,,America/New_York,77.81 degF,10.0627,7100
+2024-08-15 16:03:14 +0000,2024-08-15 17:27:28 +0000,TraditionalStrengthTraining,5054.66589,sec,977.844 kcal,,America/New_York,81.986 degF,9.23762,6000
+2024-08-16 18:34:30 +0000,2024-08-16 19:14:11 +0000,TraditionalStrengthTraining,2380.628467,sec,567.546 kcal,,America/New_York,87.188 degF,11.4064,5400
+2024-08-19 16:50:57 +0000,2024-08-19 17:17:29 +0000,TraditionalStrengthTraining,1592.652382,sec,176.992 kcal,,America/New_York,84.434 degF,5.00745,6000
+2024-08-21 12:40:04 +0000,2024-08-21 13:33:10 +0000,TraditionalStrengthTraining,3186.806921,sec,407.973 kcal,,America/New_York,62.726 degF,5.57082,7400
+2024-08-22 13:11:56 +0000,2024-08-22 14:14:23 +0000,TraditionalStrengthTraining,3747.163634,sec,638.368 kcal,,America/New_York,64.76 degF,8.00314,7200
+2024-08-27 00:23:26 +0000,2024-08-27 01:32:12 +0000,TraditionalStrengthTraining,4125.428073,sec,386.543 kcal,,America/New_York,78.728 degF,3.62111,7100
+2024-08-28 15:42:08 +0000,2024-08-28 16:44:50 +0000,TraditionalStrengthTraining,3762.181117,sec,733.833 kcal,,America/New_York,88.052 degF,9.37941,6000
+2024-08-29 13:16:46 +0000,2024-08-29 14:11:17 +0000,TraditionalStrengthTraining,3270.583505,sec,580.464 kcal,,America/New_York,80.294 degF,8.3568,7700
+2024-09-02 19:22:25 +0000,2024-09-02 20:23:27 +0000,TraditionalStrengthTraining,3661.702127,sec,638.047 kcal,,America/New_York,81.77 degF,8.25953,7200
+2024-09-03 13:30:21 +0000,2024-09-03 14:25:58 +0000,TraditionalStrengthTraining,3337.417263,sec,565.75 kcal,,America/New_York,66.2 degF,7.90014,7200
+2024-09-04 17:16:50 +0000,2024-09-04 17:45:22 +0000,TraditionalStrengthTraining,1712.660086,sec,349.19 kcal,,America/New_York,76.982 degF,9.76074,6400
+2024-09-05 11:31:25 +0000,2024-09-05 12:33:24 +0000,TraditionalStrengthTraining,3718.645888,sec,708.333 kcal,,America/New_York,62.024 degF,9.14539,9000
+2024-09-09 17:39:36 +0000,2024-09-09 18:12:29 +0000,TraditionalStrengthTraining,1972.488972,sec,240.513 kcal,,America/New_York,76.982 degF,4.97627,4900
+2024-09-11 15:59:02 +0000,2024-09-11 16:57:17 +0000,TraditionalStrengthTraining,3494.961761,sec,563.803 kcal,,America/New_York,77.072 degF,7.3962,5700
+2024-09-12 10:20:23 +0000,2024-09-12 11:33:34 +0000,TraditionalStrengthTraining,4052.295112,sec,603.887 kcal,,America/New_York,59.342 degF,6.87602,8800
+2024-09-18 11:52:07 +0000,2024-09-18 13:05:00 +0000,TraditionalStrengthTraining,4372.332793,sec,541.774 kcal,,America/New_York,66.884 degF,5.34434,9800
+2024-09-19 14:16:52 +0000,2024-09-19 15:03:45 +0000,TraditionalStrengthTraining,2813.465327,sec,477.769 kcal,,America/New_York,71.168 degF,7.90575,9000
+2024-09-23 15:47:16 +0000,2024-09-23 16:52:52 +0000,TraditionalStrengthTraining,3936.78753,sec,472.44 kcal,,America/New_York,75.362 degF,5.12221,7600
+2024-09-24 15:11:34 +0000,2024-09-24 16:00:58 +0000,TraditionalStrengthTraining,2964.07657,sec,493.832 kcal,,America/New_York,74.588 degF,7.67703,8800
+2024-09-26 15:49:47 +0000,2024-09-26 16:38:14 +0000,TraditionalStrengthTraining,2907.123253,sec,513.783 kcal,,America/New_York,,8.2822,
+2024-10-01 14:22:14 +0000,2024-10-01 15:25:00 +0000,TraditionalStrengthTraining,3766.303115,sec,693.748 kcal,,America/New_York,72.104 degF,8.51441,8900
+2024-10-02 18:30:58 +0000,2024-10-02 19:31:03 +0000,TraditionalStrengthTraining,3605.603077,sec,727.858 kcal,,America/New_York,77.558 degF,9.65114,7000
+2024-10-08 14:31:35 +0000,2024-10-08 15:36:24 +0000,TraditionalStrengthTraining,3888.778303,sec,521.926 kcal,,America/New_York,62.564 degF,5.94937,6700
+2024-10-09 15:49:54 +0000,2024-10-09 16:59:35 +0000,TraditionalStrengthTraining,4180.674857,sec,766.102 kcal,,America/New_York,68.18 degF,8.77661,5900
+2024-10-10 15:56:10 +0000,2024-10-10 16:06:31 +0000,TraditionalStrengthTraining,620.1644239,sec,118.824 kcal,,America/New_York,62.438 degF,9.17947,5200
+2024-10-24 14:54:45 +0000,2024-10-24 15:48:51 +0000,TraditionalStrengthTraining,3245.551472,sec,497.861 kcal,,America/New_York,68.918 degF,6.8488,6100
+2024-10-25 16:10:15 +0000,2024-10-25 16:51:16 +0000,TraditionalStrengthTraining,2460.683936,sec,499.435 kcal,,America/New_York,67.694 degF,9.87727,4700
+2024-10-28 16:48:27 +0000,2024-10-28 17:42:21 +0000,TraditionalStrengthTraining,3234.507132,sec,425.301 kcal,,America/New_York,64.868 degF,5.73919,6100
+2024-10-29 14:31:54 +0000,2024-10-29 15:29:22 +0000,TraditionalStrengthTraining,3243.13984,sec,440.709 kcal,,America/New_York,58.028 degF,6.23553,7000
+2024-10-30 12:12:56 +0000,2024-10-30 13:10:56 +0000,TraditionalStrengthTraining,3480.434138,sec,600.79 kcal,,America/New_York,55.742 degF,8.0779,9700
+2024-10-31 12:40:23 +0000,2024-10-31 13:32:52 +0000,TraditionalStrengthTraining,3148.862041,sec,538.905 kcal,,America/New_York,59.99 degF,7.96053,9500
+2024-11-07 00:24:47 +0000,2024-11-07 01:28:21 +0000,TraditionalStrengthTraining,3814.08631,sec,789.542 kcal,,America/New_York,70.034 degF,10.0108,8000
+2024-11-07 16:42:34 +0000,2024-11-07 17:25:46 +0000,TraditionalStrengthTraining,2592.298982,sec,422.44 kcal,,America/New_York,75.344 degF,7.44826,7600
+2024-11-12 18:55:16 +0000,2024-11-12 20:07:49 +0000,TraditionalStrengthTraining,4353.589805,sec,769.586 kcal,,America/New_York,66.506 degF,8.39437,5000
+2024-11-13 18:15:10 +0000,2024-11-13 19:11:28 +0000,TraditionalStrengthTraining,3377.438275,sec,725.634 kcal,,America/New_York,58.442 degF,10.3813,5000
+2019-12-28 19:25:52 +0000,2019-12-28 19:35:40 +0000,Running,588.340297,sec,145.488 kcal,1642.84 m,America/New_York,68 degF,12.1278,4400
+2020-01-02 20:01:26 +0000,2020-01-02 20:32:43 +0000,Running,1877.155783,sec,327.201 kcal,2931.09 m,America/New_York,50 degF,8.63668,5500
+2020-01-19 21:12:30 +0000,2020-01-19 21:22:12 +0000,Running,582.040244,sec,151.071 kcal,1660.82 m,America/New_York,48 degF,12.5816,3000
+2020-01-24 22:05:56 +0000,2020-01-24 22:19:49 +0000,Running,833.1899309,sec,183.035 kcal,2033.94 m,America/New_York,55 degF,10.3147,8300
+2020-01-29 21:52:21 +0000,2020-01-29 22:07:33 +0000,Running,912.2209036,sec,156.597 kcal,1656.71 m,America/New_York,48 degF,7.93754,4900
+2020-01-31 21:55:52 +0000,2020-01-31 22:04:02 +0000,Running,490.750653,sec,89.1474 kcal,956.296 m,America/New_York,35 degF,9.14545,9600
+2020-02-09 18:11:03 +0000,2020-02-09 18:21:32 +0000,Running,628.8990561,sec,152.164 kcal,1433.64 m,America/New_York,50 degF,11.7887,3900
+2020-02-13 23:03:13 +0000,2020-02-13 23:15:29 +0000,Running,735.876066,sec,162.514 kcal,1650.72 m,America/New_York,60 degF,10.8404,7400
+2020-03-01 19:59:10 +0000,2020-03-01 20:11:40 +0000,Running,750.480345,sec,161.925 kcal,1667.43 m,America/New_York,56 degF,10.594,2000
+2020-03-04 22:10:10 +0000,2020-03-04 22:26:46 +0000,Running,995.900158,sec,162.838 kcal,1787.09 m,America/New_York,59 degF,8.27334,3200
+2020-03-11 21:03:45 +0000,2020-03-11 21:16:30 +0000,Running,765.136911,sec,166.547 kcal,1609.92 m,America/New_York,73 degF,10.623,4100
+2020-03-23 01:13:57 +0000,2020-03-23 01:47:40 +0000,Running,2022.639278,sec,396.91 kcal,3222.65 m,America/New_York,52 degF,9.6205,5900
+2020-03-24 01:31:40 +0000,2020-03-24 01:47:11 +0000,Running,930.9671071,sec,206.477 kcal,2027.4 m,America/New_York,49 degF,10.8134,9300
+2020-04-08 01:48:15 +0000,2020-04-08 02:22:00 +0000,Running,2022.949225,sec,401.326 kcal,3227.27 m,America/New_York,68 degF,9.66029,5800
+2020-04-14 01:37:28 +0000,2020-04-14 02:11:32 +0000,Running,2043.406784,sec,400.729 kcal,3646.98 m,America/New_York,65 degF,9.64822,5000
+2020-04-16 02:35:22 +0000,2020-04-16 02:59:28 +0000,Running,1445.170615,sec,271.518 kcal,2620.66 m,America/New_York,44 degF,9.30375,6300
+2020-04-19 02:09:00 +0000,2020-04-19 02:29:43 +0000,Running,1242.922516,sec,249.022 kcal,2458.99 m,America/New_York,47 degF,9.84178,5300
+2020-04-22 20:19:44 +0000,2020-04-22 20:44:01 +0000,Running,1456.673861,sec,309.933 kcal,2558.22 m,America/New_York,69 degF,10.4189,2500
+2020-05-01 02:02:20 +0000,2020-05-01 02:29:51 +0000,Running,1650.253307,sec,284.958 kcal,2449.1 m,America/New_York,55 degF,8.52218,8900
+2020-05-03 01:35:30 +0000,2020-05-03 02:00:09 +0000,Running,1479.292992,sec,320.286 kcal,2783.08 m,America/New_York,63 degF,10.5505,5700
+2020-05-10 02:10:23 +0000,2020-05-10 02:40:02 +0000,Running,1779.039164,sec,348.786 kcal,3138.05 m,America/New_York,45 degF,9.69493,5100
+2020-05-12 02:30:55 +0000,2020-05-12 02:58:40 +0000,Running,1664.675185,sec,312.103 kcal,2706.12 m,America/New_York,47 degF,9.26521,4900
+2020-05-14 01:18:30 +0000,2020-05-14 01:31:49 +0000,Running,799.223017,sec,164.461 kcal,1707.77 m,America/New_York,59 degF,10.0259,6900
+2020-05-14 21:13:49 +0000,2020-05-14 21:32:06 +0000,Running,1097.657799,sec,205.27 kcal,2123.9 m,America/New_York,77 degF,9.20799,5200
+2020-05-22 01:02:14 +0000,2020-05-22 01:19:06 +0000,Running,1012.149538,sec,224.292 kcal,2115.29 m,America/New_York,61 degF,10.7731,9800
+2020-06-26 02:26:58 +0000,2020-06-26 02:50:12 +0000,Running,1393.867748,sec,264.973 kcal,2500.58 m,America/New_York,74 degF,9.39937,7600
+2020-07-10 01:20:58 +0000,2020-07-10 01:48:01 +0000,Running,1623.098388,sec,373.653 kcal,3300.77 m,America/New_York,77 degF,11.1639,8500
+2020-07-21 01:57:45 +0000,2020-07-21 02:19:54 +0000,Running,1329.20462,sec,277.945 kcal,2760.48 m,America/New_York,80 degF,10.2073,7400
+2020-07-23 02:05:41 +0000,2020-07-23 02:24:49 +0000,Running,1147.689867,sec,246.601 kcal,2316.14 m,America/New_York,82 degF,10.4971,7400
+2020-07-24 02:07:46 +0000,2020-07-24 02:46:36 +0000,Running,2329.85422,sec,534.698 kcal,5145.72 m,America/New_York,71 degF,11.1246,9800
+2020-08-04 02:45:44 +0000,2020-08-04 02:58:59 +0000,Running,794.856847,sec,156.263 kcal,1880.16 m,America/New_York,70 degF,9.72176,9700
+2020-08-04 03:34:06 +0000,2020-08-04 03:44:24 +0000,Running,617.546105,sec,150.936 kcal,1679.78 m,America/New_York,69 degF,11.9343,9900
+2020-08-05 01:30:56 +0000,2020-08-05 01:40:00 +0000,Running,544.154675,sec,133.813 kcal,1632.45 m,America/New_York,75 degF,11.9666,8100
+2020-08-08 02:09:41 +0000,2020-08-08 02:18:54 +0000,Running,553.099192,sec,128.314 kcal,1618.17 m,America/New_York,76 degF,11.3052,8800
+2020-08-13 02:20:19 +0000,2020-08-13 02:29:09 +0000,Running,530.28,sec,133.192 kcal,1627.79 m,America/New_York,74 degF,12.1855,9200
+2020-08-15 02:20:59 +0000,2020-08-15 02:29:13 +0000,Running,494.3412989,sec,120.919 kcal,1653.21 m,America/New_York,75 degF,11.847,9300
+2020-08-20 02:16:46 +0000,2020-08-20 02:24:38 +0000,Running,471.653512,sec,119.913 kcal,1629.76 m,America/New_York,71 degF,12.3265,9000
+2020-08-21 01:59:32 +0000,2020-08-21 02:35:53 +0000,Running,2181.337076,sec,496.881 kcal,4936.31 m,America/New_York,70 degF,11.0234,9400
+2020-08-22 02:03:40 +0000,2020-08-22 02:12:09 +0000,Running,509.327413,sec,132.556 kcal,1617.84 m,America/New_York,70 degF,12.4196,9800
+2020-08-23 01:04:13 +0000,2020-08-23 01:11:50 +0000,Running,456.68387,sec,120.604 kcal,1623.42 m,America/New_York,75 degF,12.7799,8800
+2020-08-24 02:46:43 +0000,2020-08-24 02:54:14 +0000,Running,450.6255831,sec,121.491 kcal,1619.74 m,America/New_York,74 degF,13.0603,8700
+2020-08-25 02:48:08 +0000,2020-08-25 03:13:13 +0000,Running,1505.102102,sec,327.42 kcal,3396.32 m,America/New_York,73 degF,10.6418,9000
+2020-08-26 02:24:32 +0000,2020-08-26 02:32:52 +0000,Running,499.416231,sec,120.26 kcal,1571.15 m,America/New_York,76 degF,11.666,8900
+2020-08-26 21:22:43 +0000,2020-08-26 21:28:14 +0000,Running,330.9862319,sec,89.1806 kcal,1184.63 m,America/New_York,87 degF,13.1111,5400
+2020-08-26 21:30:34 +0000,2020-08-26 21:32:52 +0000,Running,137.990077,sec,31.5136 kcal,457.438 m,America/New_York,87 degF,11.9783,5500
+2020-08-28 02:05:43 +0000,2020-08-28 02:14:01 +0000,Running,497.8088111,sec,115.356 kcal,1491.64 m,America/New_York,78 degF,11.3564,8700
+2020-08-30 00:10:25 +0000,2020-08-30 00:17:24 +0000,Running,419.385679,sec,110.664 kcal,1509.19 m,America/New_York,79 degF,12.8052,7900
+2020-08-31 01:39:39 +0000,2020-08-31 01:46:38 +0000,Running,419.2552249,sec,109.093 kcal,1482.63 m,America/New_York,72 degF,12.6437,8300
+2020-09-01 02:02:47 +0000,2020-09-01 02:13:04 +0000,Running,616.513943,sec,152.203 kcal,1747.54 m,America/New_York,70 degF,11.8925,9900
+2020-09-02 02:38:27 +0000,2020-09-02 02:44:22 +0000,Running,355.35559,sec,83.4146 kcal,1140.7 m,America/New_York,74 degF,11.72,9600
+2020-09-03 19:19:32 +0000,2020-09-03 20:36:42 +0000,Running,4630.190649,sec,510.893 kcal,8096.16 m,America/New_York,91 degF,5.88831,5200
+2020-09-05 18:59:31 +0000,2020-09-05 19:43:06 +0000,Running,2615.503623,sec,408.935 kcal,5327.96 m,America/New_York,80 degF,7.98112,4100
+2020-09-06 21:55:34 +0000,2020-09-06 22:33:14 +0000,Running,2259.951502,sec,350.523 kcal,4989.31 m,America/New_York,78 degF,7.90822,4700
+2020-09-07 19:24:54 +0000,2020-09-07 20:05:10 +0000,Running,2415.185404,sec,412.296 kcal,5288.42 m,America/New_York,82 degF,8.61647,4400
+2020-09-10 01:51:10 +0000,2020-09-10 02:00:45 +0000,Running,574.86493,sec,137.886 kcal,1477.57 m,America/New_York,72 degF,11.7365,9900
+2020-09-14 01:10:44 +0000,2020-09-14 01:19:19 +0000,Running,514.832967,sec,121.118 kcal,1392.99 m,America/New_York,72 degF,11.4384,8700
+2020-09-15 00:51:38 +0000,2020-09-15 01:40:36 +0000,Running,2938.178951,sec,608.379 kcal,5170.17 m,America/New_York,69 degF,10.1256,8700
+2020-09-16 19:06:42 +0000,2020-09-16 20:05:03 +0000,Running,3500.231177,sec,418.4 kcal,5554.07 m,America/New_York,74 degF,6.36228,6100
+2020-09-18 02:01:56 +0000,2020-09-18 02:11:47 +0000,Running,590.699115,sec,144.657 kcal,1528.72 m,America/New_York,64.4 degF,11.8719,9800
+2020-09-20 01:39:19 +0000,2020-09-20 01:48:38 +0000,Running,559.097355,sec,139.721 kcal,1694.25 m,America/New_York,50 degF,12.1736,7300
+2020-09-22 18:10:09 +0000,2020-09-22 18:47:46 +0000,Running,2256.837426,sec,456.247 kcal,5260.14 m,America/New_York,68 degF,9.95558,4800
+2020-09-25 01:47:58 +0000,2020-09-25 01:58:21 +0000,Running,623.316725,sec,149.887 kcal,1615.83 m,America/New_York,60.8 degF,11.6835,9200
+2020-09-30 19:06:24 +0000,2020-09-30 19:46:40 +0000,Running,2416.431394,sec,487.636 kcal,5147.72 m,America/New_York,68 degF,9.91963,4800
+2020-10-02 18:02:51 +0000,2020-10-02 20:14:17 +0000,Running,5177.511026,sec,674.913 kcal,8050.11 m,America/New_York,66.2 degF,6.44679,3900
+2020-10-05 01:15:13 +0000,2020-10-05 01:24:58 +0000,Running,584.342376,sec,146.865 kcal,1625.25 m,America/New_York,53.6 degF,12.3393,8700
+2020-10-13 02:11:20 +0000,2020-10-13 02:18:36 +0000,Running,436.3300921,sec,111.194 kcal,1431.06 m,America/New_York,64.4 degF,12.3013,9800
+2020-10-13 02:28:14 +0000,2020-10-13 02:30:39 +0000,Running,144.738855,sec,31.5171 kcal,443.683 m,America/New_York,64.4 degF,11.2531,9700
+2020-10-21 00:30:47 +0000,2020-10-21 00:41:15 +0000,Running,627.3044961,sec,151.352 kcal,1400.98 m,America/New_York,62.6 degF,11.7149,8700
+2020-10-21 19:32:40 +0000,2020-10-21 19:42:52 +0000,Running,611.4126049,sec,160.703 kcal,1628.44 m,America/New_York,80.6 degF,12.7001,5700
+2020-10-25 01:22:38 +0000,2020-10-25 01:32:44 +0000,Running,605.514883,sec,152.975 kcal,1458.99 m,America/New_York,69.8 degF,12.2391,8300
+2020-10-27 21:24:39 +0000,2020-10-27 21:34:11 +0000,Running,572.4849491,sec,140.482 kcal,1357.11 m,America/New_York,69.8 degF,11.9078,7700
+2020-11-05 01:10:25 +0000,2020-11-05 01:20:38 +0000,Running,612.88732,sec,159.677 kcal,1616.07 m,America/New_York,48.2 degF,12.5585,7200
+2020-11-05 22:06:27 +0000,2020-11-05 22:15:32 +0000,Running,544.804042,sec,126.973 kcal,1614.31 m,America/New_York,62.6 degF,11.4244,5200
+2020-11-06 19:02:46 +0000,2020-11-06 20:53:51 +0000,Running,5524.660355,sec,605.193 kcal,8060.66 m,America/New_York,71.6 degF,8.38695,4700
+2020-11-08 21:48:12 +0000,2020-11-08 21:58:12 +0000,Running,599.916136,sec,157.662 kcal,1617.34 m,America/New_York,71.6 degF,12.6179,6300
+2020-11-11 02:52:00 +0000,2020-11-11 03:03:23 +0000,Running,682.489792,sec,177.44 kcal,1628.52 m,America/New_York,64.4 degF,12.4985,9900
+2020-11-16 21:52:24 +0000,2020-11-16 22:01:15 +0000,Running,531.381714,sec,135.124 kcal,1478.64 m,America/New_York,57.2 degF,12.3894,2600
+2020-11-20 01:30:03 +0000,2020-11-20 01:39:08 +0000,Running,544.158878,sec,134.695 kcal,1633.06 m,America/New_York,39.2 degF,11.9444,6500
+2020-11-23 21:56:19 +0000,2020-11-23 22:05:36 +0000,Running,556.971599,sec,140.737 kcal,1525.7 m,America/New_York,51.8 degF,12.3223,3800
+2020-12-01 03:06:17 +0000,2020-12-01 03:17:07 +0000,Running,649.8014469,sec,173.339 kcal,1625.94 m,America/New_York,44.6 degF,12.8173,6000
+2020-12-07 02:24:23 +0000,2020-12-07 02:51:41 +0000,Running,1432.150124,sec,361.854 kcal,3224.08 m,America/New_York,39.2 degF,10.8002,8300
+2020-12-10 02:08:51 +0000,2020-12-10 02:20:04 +0000,Running,672.981261,sec,158.619 kcal,1622.13 m,America/New_York,41 degF,11.4509,5900
+2020-12-14 21:49:07 +0000,2020-12-14 21:58:53 +0000,Running,586.361903,sec,149.171 kcal,1625.12 m,America/New_York,46.4 degF,12.4128,6600
+2020-12-17 01:46:20 +0000,2020-12-17 01:56:51 +0000,Running,630.935789,sec,158.51 kcal,1620.38 m,America/New_York,33.8 degF,12.1984,9500
+2020-12-29 21:01:18 +0000,2020-12-29 21:11:21 +0000,Running,603.347955,sec,137.778 kcal,1632.69 m,America/New_York,48.2 degF,11.1792,3500
+2021-01-04 21:02:12 +0000,2021-01-04 21:11:19 +0000,Running,546.872685,sec,120.258 kcal,1479.9 m,America/New_York,48.2 degF,10.8562,5000
+2021-01-04 21:16:14 +0000,2021-01-04 21:33:21 +0000,Running,1027.159665,sec,265.675 kcal,2124.79 m,America/New_York,48.2 degF,12.3376,5000
+2021-01-12 02:07:02 +0000,2021-01-12 02:34:36 +0000,Running,1500.523248,sec,323.358 kcal,3296.86 m,America/New_York,35.6 degF,9.68075,9400
+2021-01-12 21:26:44 +0000,2021-01-12 21:38:06 +0000,Running,682.314486,sec,161.295 kcal,1619.79 m,America/New_York,53.6 degF,11.4759,5000
+2021-01-18 21:00:30 +0000,2021-01-18 21:09:13 +0000,Running,522.7649779,sec,131.472 kcal,1636.01 m,America/New_York,46.4 degF,12.2381,3800
+2021-01-19 21:17:39 +0000,2021-01-19 21:26:57 +0000,Running,558.406212,sec,141.451 kcal,1670.87 m,America/New_York,53.6 degF,12.3657,3600
+2021-01-22 22:00:43 +0000,2021-01-22 22:11:49 +0000,Running,666.247501,sec,173.804 kcal,1635.87 m,America/New_York,55.4 degF,12.5408,2300
+2021-01-28 20:46:52 +0000,2021-01-28 20:58:52 +0000,Running,719.878494,sec,179.353 kcal,1689.84 m,America/New_York,37.4 degF,11.9917,4500
+2021-01-30 19:28:18 +0000,2021-01-30 19:39:43 +0000,Running,684.620786,sec,169.076 kcal,1638.91 m,America/New_York,39.2 degF,11.9665,3400
+2021-02-04 21:49:39 +0000,2021-02-04 21:59:26 +0000,Running,586.5506281,sec,152.135 kcal,1618.85 m,America/New_York,46.4 degF,12.5108,2300
+2021-02-09 18:19:01 +0000,2021-02-09 18:31:55 +0000,Running,773.980209,sec,184.426 kcal,1631.72 m,America/New_York,57.2 degF,11.6099,6300
+2021-02-11 18:09:26 +0000,2021-02-11 18:18:36 +0000,Running,549.509455,sec,136.576 kcal,1616.28 m,America/New_York,44.6 degF,12.1136,9100
+2021-02-16 18:19:59 +0000,2021-02-16 18:29:50 +0000,Running,590.490608,sec,157.565 kcal,1617.87 m,America/New_York,48.2 degF,12.9009,7200
+2021-02-19 21:17:31 +0000,2021-02-19 21:28:48 +0000,Running,677.0171241,sec,137.669 kcal,1622.59 m,America/New_York,46.4 degF,10.1287,5900
+2021-02-23 18:14:03 +0000,2021-02-23 19:17:49 +0000,Running,3825.744804,sec,537.894 kcal,6517.86 m,America/New_York,60.8 degF,7.28566,3300
+2021-03-02 21:58:10 +0000,2021-03-02 22:06:46 +0000,Running,515.9351641,sec,137.039 kcal,1633.51 m,America/New_York,,12.7653,
+2021-03-06 17:54:53 +0000,2021-03-06 18:06:45 +0000,Running,712.010203,sec,156.351 kcal,1647.71 m,America/New_York,50 degF,10.7352,2500
+2021-03-11 02:41:52 +0000,2021-03-11 02:52:10 +0000,Running,617.513124,sec,166.455 kcal,1626.1 m,America/New_York,57.2 degF,13.0006,3500
+2021-03-17 01:05:00 +0000,2021-03-17 01:30:03 +0000,Running,1502.608922,sec,363.546 kcal,3270.08 m,America/New_York,44.6 degF,11.6609,9100
+2021-04-07 19:05:01 +0000,2021-04-07 19:17:45 +0000,Running,764.697996,sec,157.014 kcal,1629.95 m,America/New_York,82.4 degF,10.1845,2500
+2021-04-14 15:09:28 +0000,2021-04-14 15:19:08 +0000,Running,579.993731,sec,154.948 kcal,1619.22 m,America/New_York,73.4 degF,12.8846,4300
+2021-04-26 01:23:27 +0000,2021-04-26 01:33:13 +0000,Running,585.827316,sec,152.787 kcal,1616.87 m,America/New_York,53.6 degF,12.5704,6400
+2021-05-07 01:55:46 +0000,2021-05-07 02:02:54 +0000,Running,427.920814,sec,87.6875 kcal,776.466 m,America/New_York,57.2 degF,10.2459,6700
+2021-05-13 23:32:08 +0000,2021-05-13 23:33:30 +0000,Running,82.09116805,sec,18.2112 kcal,197.856 m,America/New_York,62.6 degF,12.1412,3500
+2021-05-15 21:23:12 +0000,2021-05-15 21:35:51 +0000,Running,758.236732,sec,193.497 kcal,1786.93 m,America/New_York,73.4 degF,12.3807,2400
+2021-05-25 18:27:45 +0000,2021-05-25 18:38:11 +0000,Running,626.178598,sec,157.748 kcal,1614.21 m,America/New_York,82.4 degF,12.1924,5900
+2021-05-29 00:39:54 +0000,2021-05-29 01:00:30 +0000,Running,1235.56309,sec,159.675 kcal,1613.49 m,America/New_York,75.2 degF,6.74099,7400
+2021-05-29 19:09:40 +0000,2021-05-29 19:18:58 +0000,Running,557.6885171,sec,144.625 kcal,1661.19 m,America/New_York,71.6 degF,12.5028,7000
+2021-05-31 22:28:09 +0000,2021-05-31 22:38:22 +0000,Running,612.8153039,sec,152.595 kcal,1638.01 m,America/New_York,73.4 degF,12.0721,4400
+2021-06-27 21:09:53 +0000,2021-06-27 21:22:26 +0000,Running,753.543555,sec,183.266 kcal,1687.21 m,America/New_York,87.8 degF,11.8716,4700
+2021-06-29 01:10:58 +0000,2021-06-29 01:21:08 +0000,Running,609.425696,sec,156.671 kcal,1612.18 m,America/New_York,78.8 degF,12.4656,6700
+2021-06-29 21:17:23 +0000,2021-06-29 21:27:27 +0000,Running,603.493247,sec,157.184 kcal,1665.02 m,America/New_York,87.8 degF,12.5536,4700
+2021-07-17 19:54:36 +0000,2021-07-17 20:20:14 +0000,Running,1537.851986,sec,418.672 kcal,3474.41 m,America/New_York,89.6 degF,12.965,5200
+2021-07-21 16:26:58 +0000,2021-07-21 16:35:46 +0000,Running,527.466584,sec,151.849 kcal,1622.36 m,America/New_York,84.2 degF,13.8824,5400
+2021-07-25 20:06:40 +0000,2021-07-25 20:16:22 +0000,Running,581.712842,sec,166.103 kcal,1619.44 m,America/New_York,87.8 degF,13.6515,5700
+2021-08-08 16:13:29 +0000,2021-08-08 16:23:40 +0000,Running,611.1126031,sec,167.666 kcal,1614.03 m,America/New_York,84.2 degF,13.1808,5200
+2021-08-10 15:07:53 +0000,2021-08-10 15:18:02 +0000,Running,608.980296,sec,170.485 kcal,1683.35 m,America/New_York,84.2 degF,13.42,6900
+2021-08-11 18:27:19 +0000,2021-08-11 18:36:02 +0000,Running,523.1440749,sec,141.145 kcal,1618.6 m,America/New_York,91.4 degF,13.0267,5000
+2021-08-12 14:49:02 +0000,2021-08-12 15:02:10 +0000,Running,788.068246,sec,183.122 kcal,1718.11 m,America/New_York,84.2 degF,11.3093,6400
+2021-08-30 13:31:33 +0000,2021-08-30 13:40:24 +0000,Running,530.295639,sec,154.334 kcal,1616.24 m,America/New_York,84.2 degF,13.823,6500
+2021-09-13 22:17:47 +0000,2021-09-13 22:52:27 +0000,Running,2079.869753,sec,422.593 kcal,4162.14 m,America/New_York,86 degF,9.99904,5400
+2021-10-04 19:56:38 +0000,2021-10-04 20:02:03 +0000,Running,325.7395281,sec,92.7194 kcal,898.936 m,America/New_York,84.2 degF,13.7278,5200
+2021-10-05 19:00:40 +0000,2021-10-05 19:10:41 +0000,Running,600.4726549,sec,178.19 kcal,1618.2 m,America/New_York,82.4 degF,14.1187,6000
+2021-10-13 13:33:48 +0000,2021-10-13 13:43:15 +0000,Running,566.452337,sec,158.838 kcal,1614.7 m,America/New_York,68 degF,13.4597,8100
+2021-10-20 22:02:40 +0000,2021-10-20 22:22:26 +0000,Running,1185.448358,sec,350.503 kcal,3291.68 m,America/New_York,73.4 degF,14.0367,3900
+2021-10-21 13:42:45 +0000,2021-10-21 13:49:22 +0000,Running,396.5351629,sec,110.943 kcal,1067.23 m,America/New_York,,13.3141,
+2021-10-23 21:46:41 +0000,2021-10-23 21:56:50 +0000,Running,608.917271,sec,185.07 kcal,1620.32 m,America/New_York,71.6 degF,14.4791,4500
+2021-10-30 16:59:19 +0000,2021-10-30 17:11:41 +0000,Running,741.989535,sec,214.851 kcal,2100.63 m,America/New_York,,13.836,
+2021-11-03 13:02:33 +0000,2021-11-03 13:12:52 +0000,Running,619.137007,sec,181.956 kcal,1615.81 m,America/New_York,,14.0267,
+2021-11-07 20:11:27 +0000,2021-11-07 20:19:53 +0000,Running,506.595893,sec,137.357 kcal,1618 m,America/New_York,,14.4648,
+2021-11-09 22:07:20 +0000,2021-11-09 22:16:59 +0000,Running,579.387835,sec,168.346 kcal,1675 m,America/New_York,,13.9999,
+2021-11-17 22:03:45 +0000,2021-11-17 22:22:05 +0000,Running,1100.330241,sec,316.156 kcal,3227 m,America/New_York,,13.6688,
+2021-11-18 21:24:02 +0000,2021-11-18 21:31:45 +0000,Running,463.0533689,sec,134.189 kcal,1624 m,America/New_York,,13.9237,
+2021-11-19 23:00:12 +0000,2021-11-19 23:08:13 +0000,Running,481.116755,sec,137.887 kcal,1614 m,America/New_York,,13.8491,
+2021-11-21 19:33:31 +0000,2021-11-21 19:41:02 +0000,Running,450.374351,sec,131.645 kcal,1619 m,America/New_York,64.4 degF,14.0996,5400
+2021-11-23 19:09:17 +0000,2021-11-23 19:16:31 +0000,Running,433.996977,sec,127.365 kcal,1452 m,America/New_York,,14.1434,
+2021-11-28 21:46:13 +0000,2021-11-28 21:57:57 +0000,Running,703.2845789,sec,162.826 kcal,1822 m,America/New_York,,11.4248,
+2021-12-06 01:32:01 +0000,2021-12-06 01:49:05 +0000,Running,1023.454795,sec,291.413 kcal,3251 m,America/New_York,,13.6518,
+2021-12-07 01:35:18 +0000,2021-12-07 01:45:15 +0000,Running,596.6086661,sec,158.86 kcal,1619 m,America/New_York,,12.8557,
+2021-12-16 03:04:43 +0000,2021-12-16 03:15:13 +0000,Running,630.4915971,sec,177.227 kcal,1764 m,America/New_York,51.8 degF,13.45,8100
+2021-12-17 20:45:42 +0000,2021-12-17 21:02:00 +0000,Running,977.483238,sec,288.069 kcal,2684.52 m,America/New_York,55.4 degF,13.9587,2600
+2021-12-17 21:14:34 +0000,2021-12-17 21:23:15 +0000,Running,521.277279,sec,157.602 kcal,1386.88 m,America/New_York,55.4 degF,14.4835,2600
+2021-12-19 18:01:27 +0000,2021-12-19 18:20:18 +0000,Running,1130.702239,sec,292.516 kcal,2771.61 m,America/New_York,39.2 degF,12.416,5300
+2021-12-20 19:44:27 +0000,2021-12-20 20:07:10 +0000,Running,1363.179285,sec,359.466 kcal,3048.42 m,America/New_York,39.2 degF,12.5868,3700
+2021-12-22 21:22:05 +0000,2021-12-22 21:39:10 +0000,Running,1024.492364,sec,284.309 kcal,2630.15 m,America/New_York,42.8 degF,13.2226,4000
+2021-12-22 21:50:53 +0000,2021-12-22 22:00:30 +0000,Running,577.462383,sec,161.572 kcal,1403.92 m,America/New_York,41 degF,13.4877,4100
+2021-12-23 19:55:04 +0000,2021-12-23 20:16:45 +0000,Running,1300.27786,sec,295.069 kcal,2795.5 m,America/New_York,37.4 degF,10.9674,3800
+2021-12-24 20:21:59 +0000,2021-12-24 20:41:09 +0000,Running,1150.312555,sec,286.491 kcal,2679.87 m,America/New_York,51.8 degF,12.0058,4300
+2021-12-27 18:20:33 +0000,2021-12-27 18:40:31 +0000,Running,1198.050119,sec,325.524 kcal,2828.74 m,America/New_York,35.6 degF,12.9607,7300
+2022-01-03 03:07:59 +0000,2022-01-03 03:38:31 +0000,Running,1832.143064,sec,472.671 kcal,4628.24 m,America/New_York,42.8 degF,12.3679,6900
+2022-01-03 20:53:03 +0000,2022-01-03 21:21:50 +0000,Running,1727.626289,sec,418.585 kcal,4175.23 m,America/New_York,28.4 degF,11.6977,6200
+2022-01-04 22:33:40 +0000,2022-01-04 22:54:51 +0000,Running,1270.582642,sec,336.197 kcal,3520.58 m,America/New_York,28.4 degF,12.6717,6100
+2022-01-05 21:15:31 +0000,2022-01-05 21:35:53 +0000,Running,1222.109019,sec,296.836 kcal,2979.71 m,America/New_York,42.8 degF,11.7983,8300
+2022-01-08 19:10:52 +0000,2022-01-08 19:19:50 +0000,Running,537.3770621,sec,141.41 kcal,1613 m,America/New_York,37.4 degF,11.7998,3300
+2022-01-09 21:18:12 +0000,2022-01-09 21:43:08 +0000,Running,1496.569163,sec,380.174 kcal,3468 m,America/New_York,64.4 degF,12.2219,6300
+2022-01-11 20:56:02 +0000,2022-01-11 21:06:17 +0000,Running,615.3120821,sec,156.157 kcal,1564.01 m,America/New_York,41 degF,12.2383,2500
+2022-01-13 18:31:45 +0000,2022-01-13 18:56:53 +0000,Running,1507.909123,sec,381.714 kcal,3845 m,America/New_York,53.6 degF,12.1776,3400
+2022-01-15 20:50:40 +0000,2022-01-15 21:10:09 +0000,Running,1169.680449,sec,314.564 kcal,2606 m,America/New_York,,12.8428,
+2022-01-17 17:30:01 +0000,2022-01-17 17:49:25 +0000,Running,1164.639935,sec,337.694 kcal,3323 m,America/New_York,41 degF,13.7737,5700
+2022-01-18 22:55:43 +0000,2022-01-18 23:25:39 +0000,Running,1795.912449,sec,515.3 kcal,4963 m,America/New_York,42.8 degF,13.6021,4400
+2022-01-19 22:18:49 +0000,2022-01-19 22:46:56 +0000,Running,1687.306682,sec,303.471 kcal,3260.6 m,America/New_York,55.4 degF,8.61584,3600
+2022-01-20 20:58:29 +0000,2022-01-20 21:28:21 +0000,Running,1792.036017,sec,423.757 kcal,3227.41 m,America/New_York,44.6 degF,11.4081,9000
+2022-01-22 22:44:14 +0000,2022-01-22 22:55:30 +0000,Running,675.8096291,sec,161.103 kcal,1366.62 m,America/New_York,32 degF,11.4027,6100
+2022-01-27 22:52:29 +0000,2022-01-27 23:12:57 +0000,Running,1228.059253,sec,328.001 kcal,3395 m,America/New_York,39.2 degF,12.8438,4000
+2022-01-29 19:22:10 +0000,2022-01-29 19:37:59 +0000,Running,948.9302881,sec,289.118 kcal,3245 m,America/New_York,35.6 degF,14.4512,3900
+2022-01-31 21:14:46 +0000,2022-01-31 21:31:43 +0000,Running,1017.028636,sec,281.372 kcal,2831.6 m,America/New_York,51.8 degF,13.2612,3200
+2022-02-04 15:13:41 +0000,2022-02-04 15:34:26 +0000,Running,1245.490564,sec,319.599 kcal,3239 m,America/New_York,64.4 degF,12.3689,9200
+2022-02-07 00:56:18 +0000,2022-02-07 01:27:25 +0000,Running,1867.123453,sec,473.169 kcal,3444.11 m,America/New_York,39.2 degF,12.1274,4800
+2022-02-13 17:32:32 +0000,2022-02-13 17:56:15 +0000,Running,1422.341659,sec,364.314 kcal,3529 m,America/New_York,48.2 degF,12.1972,5400
+2022-02-17 22:23:21 +0000,2022-02-17 22:53:14 +0000,Running,1792.376929,sec,490.714 kcal,4331 m,America/New_York,71.6 degF,13.039,4600
+2022-02-20 20:27:46 +0000,2022-02-20 20:53:34 +0000,Running,1548.413879,sec,410.786 kcal,3281 m,America/New_York,,12.7144,
+2022-03-29 22:25:12 +0000,2022-03-29 22:55:52 +0000,Running,1839.781832,sec,535.852 kcal,3338 m,America/New_York,53.6 degF,13.7913,2500
+2022-04-06 16:10:39 +0000,2022-04-06 16:24:06 +0000,Running,807.3993191,sec,239.595 kcal,2136 m,America/New_York,73.4 degF,14.1108,5200
+2022-04-24 15:01:37 +0000,2022-04-24 15:21:51 +0000,Running,1213.723984,sec,298.895 kcal,2266 m,America/New_York,75.2 degF,11.8047,5500
+2022-05-08 21:01:00 +0000,2022-05-08 21:14:11 +0000,Running,790.5354329,sec,185.93 kcal,1835.91 m,America/New_York,57.2 degF,11.4637,4100
+2022-05-10 16:10:22 +0000,2022-05-10 16:30:44 +0000,Running,1221.867909,sec,323.754 kcal,2828.45 m,America/New_York,66.2 degF,12.7336,2800
+2022-05-13 15:37:31 +0000,2022-05-13 15:50:17 +0000,Running,766.6638891,sec,188.022 kcal,1710.44 m,America/New_York,66.2 degF,11.8584,9500
+2022-05-29 00:43:38 +0000,2022-05-29 01:03:42 +0000,Running,1203.743636,sec,307.641 kcal,2713.29 m,America/New_York,71.6 degF,12.2791,6800
+2022-06-01 18:29:11 +0000,2022-06-01 18:41:07 +0000,Running,715.6440599,sec,184.085 kcal,1678.65 m,America/New_York,84.2 degF,12.4169,6100
+2022-06-12 16:36:51 +0000,2022-06-12 16:48:01 +0000,Running,670.0118021,sec,115.89 kcal,1461.88 m,America/New_York,69.8 degF,8.67561,8700
+2022-06-29 18:54:40 +0000,2022-06-29 19:10:18 +0000,Running,937.273788,sec,216.997 kcal,2404.97 m,America/New_York,84.2 degF,11.3049,3900
+2022-07-02 20:13:01 +0000,2022-07-02 20:21:57 +0000,Running,535.9056691,sec,128.291 kcal,1477.54 m,America/New_York,91.4 degF,11.7154,5200
+2022-08-01 00:11:26 +0000,2022-08-01 00:35:38 +0000,Running,1452.407974,sec,424.169 kcal,3716.26 m,America/New_York,77 degF,13.8226,7300
+2022-08-03 01:19:21 +0000,2022-08-03 01:27:54 +0000,Running,513.0235569,sec,134.103 kcal,1399.19 m,America/New_York,80.6 degF,12.6976,6400
+2022-08-16 23:32:32 +0000,2022-08-16 23:44:53 +0000,Running,740.7684819,sec,123.604 kcal,1222.76 m,America/New_York,75.2 degF,6.60694,7500
+2022-08-23 19:22:12 +0000,2022-08-23 19:31:23 +0000,Running,550.93796,sec,151.737 kcal,1472.57 m,America/New_York,84.2 degF,13.3919,5500
+2022-09-04 21:47:07 +0000,2022-09-04 22:07:30 +0000,Running,1222.603976,sec,304.329 kcal,2341.31 m,America/New_York,,11.9948,
+2022-09-11 16:50:20 +0000,2022-09-11 17:18:50 +0000,Running,1400.648778,sec,376.673 kcal,3378.88 m,America/New_York,80.6 degF,10.7627,8100
+2022-09-18 18:37:25 +0000,2022-09-18 18:47:17 +0000,Running,591.4487101,sec,171.804 kcal,1566.3 m,America/New_York,83.534 degF,13.9165,5400
+2022-11-03 18:49:38 +0000,2022-11-03 19:02:18 +0000,Running,760.06136,sec,198.065 kcal,2163.77 m,America/New_York,71.15 degF,12.4841,7200
+2022-11-20 23:15:25 +0000,2022-11-20 23:33:28 +0000,Running,1082.782049,sec,237.41 kcal,2168.5 m,America/New_York,38.75 degF,10.7244,4900
+2022-11-23 21:22:05 +0000,2022-11-23 22:01:04 +0000,Running,2179.746892,sec,284.38 kcal,4121.68 m,America/New_York,62.366 degF,6.50937,5200
+2022-12-18 19:36:52 +0000,2022-12-18 20:20:22 +0000,Running,2610.148038,sec,376.293 kcal,4926.56 m,America/New_York,51.296 degF,7.42957,4300
+2022-12-23 21:34:36 +0000,2022-12-23 21:55:55 +0000,Running,1279.804696,sec,360.859 kcal,3264.89 m,America/New_York,36.536 degF,13.3843,3700
+2022-12-25 21:33:28 +0000,2022-12-25 22:07:53 +0000,Running,2064.997513,sec,530.57 kcal,4098.56 m,America/New_York,38.192 degF,12.3155,4000
+2023-02-10 21:00:52 +0000,2023-02-10 21:11:11 +0000,Running,618.818814,sec,169.623 kcal,1667.19 m,America/New_York,69.512 degF,13.0178,4800
+2023-02-20 16:06:57 +0000,2023-02-20 16:17:12 +0000,Running,614.758599,sec,182.286 kcal,1617.18 m,America/New_York,56.138 degF,13.9557,6700
+2023-03-11 22:14:48 +0000,2023-03-11 22:28:57 +0000,Running,839.6750579,sec,193.701 kcal,1895.86 m,America/New_York,52.268 degF,11.0416,4000
+2023-04-01 21:08:53 +0000,2023-04-01 21:18:10 +0000,Running,557.0517629,sec,146.133 kcal,1610.81 m,America/New_York,75.308 degF,12.5708,5900
+2023-04-12 13:34:19 +0000,2023-04-12 13:47:13 +0000,Running,774.201798,sec,143.443 kcal,1740.46 m,America/New_York,59.486 degF,9.01592,5300
+2023-05-04 17:07:17 +0000,2023-05-04 17:45:38 +0000,Running,2300.905819,sec,375.785 kcal,4838.64 m,America/New_York,65.732 degF,8.28874,4000
+2023-05-23 16:29:57 +0000,2023-05-23 16:39:55 +0000,Running,548.813278,sec,139.78 kcal,1530.22 m,America/New_York,73.778 degF,12.4146,4900
+2023-05-24 15:45:05 +0000,2023-05-24 15:54:21 +0000,Running,556.836581,sec,152.938 kcal,1742 m,America/New_York,68.882 degF,13.106,3800
+2023-06-09 17:54:59 +0000,2023-06-09 18:57:51 +0000,Running,3771.586877,sec,647.603 kcal,7396 m,America/New_York,78.98 degF,8.60999,2900
+2023-06-24 22:29:36 +0000,2023-06-24 22:50:43 +0000,Running,1267.704391,sec,282.351 kcal,3090.25 m,America/New_York,83.66 degF,10.7972,5900
+2023-06-27 23:41:48 +0000,2023-06-28 00:01:49 +0000,Running,1200.664167,sec,280.666 kcal,3189.44 m,America/New_York,81.626 degF,11.3218,5800
+2023-06-30 23:34:11 +0000,2023-06-30 23:53:51 +0000,Running,1180.614864,sec,266.851 kcal,3041.64 m,America/New_York,85.37 degF,10.9745,6000
+2023-07-06 19:22:03 +0000,2023-07-06 19:32:14 +0000,Running,610.8931191,sec,168.032 kcal,1787 m,America/New_York,89.006 degF,13.1538,6000
+2023-07-11 17:39:01 +0000,2023-07-11 18:05:53 +0000,Running,1612.571285,sec,261.854 kcal,3227.08 m,America/New_York,87.404 degF,8.21552,4600
+2023-07-18 02:10:10 +0000,2023-07-18 02:16:32 +0000,Running,381.9450413,sec,61.5039 kcal,698.677 m,America/New_York,,8.19192,
+2023-07-20 11:32:47 +0000,2023-07-20 11:45:50 +0000,Running,782.69682,sec,235.089 kcal,2506.23 m,America/New_York,70.322 degF,14.1457,8800
+2023-07-23 18:05:26 +0000,2023-07-23 18:12:55 +0000,Running,449.081712,sec,83.509 kcal,1017.21 m,America/New_York,87.332 degF,9.21901,5100
+2023-08-09 22:41:28 +0000,2023-08-09 23:06:30 +0000,Running,1502.461274,sec,277.246 kcal,3256.87 m,America/New_York,86.648 degF,9.18454,4800
+2023-08-19 17:23:57 +0000,2023-08-19 17:45:01 +0000,Running,1264.474111,sec,282.125 kcal,3231.93 m,America/New_York,85.028 degF,10.8299,4100
+2023-09-01 14:13:12 +0000,2023-09-01 14:34:13 +0000,Running,1261.666775,sec,271.499 kcal,3126.86 m,America/New_York,69.152 degF,10.43,7200
+2023-09-05 21:49:49 +0000,2023-09-05 22:14:54 +0000,Running,1505.172395,sec,361.756 kcal,3340.26 m,America/New_York,93.83 degF,11.5862,5000
+2023-09-06 11:22:11 +0000,2023-09-06 11:48:32 +0000,Running,1579.362878,sec,300.154 kcal,3477.89 m,America/New_York,72.878 degF,9.42769,8900
+2023-09-15 18:14:11 +0000,2023-09-15 18:37:52 +0000,Running,1421.440563,sec,285.072 kcal,3256.69 m,America/New_York,76.496 degF,9.80924,4200
+2023-09-19 20:21:43 +0000,2023-09-19 20:40:31 +0000,Running,1128.104747,sec,291.053 kcal,3225.72 m,America/New_York,81.248 degF,12.3089,4100
+2023-10-04 17:44:08 +0000,2023-10-04 18:06:39 +0000,Running,1350.910044,sec,277.279 kcal,3209.11 m,America/New_York,78.008 degF,10.0939,5300
+2023-10-05 17:45:50 +0000,2023-10-05 18:06:48 +0000,Running,1258.584047,sec,285.069 kcal,3225.81 m,America/New_York,78.926 degF,10.9872,5800
+2023-10-19 18:23:42 +0000,2023-10-19 18:32:52 +0000,Running,550.3217289,sec,146.387 kcal,1708.66 m,America/New_York,70.628 degF,12.7303,4900
+2023-10-23 17:18:56 +0000,2023-10-23 17:43:00 +0000,Running,1443.952012,sec,273.919 kcal,3234.24 m,America/New_York,63.32 degF,9.35669,4600
+2023-10-26 14:34:18 +0000,2023-10-26 14:54:12 +0000,Running,1194.027287,sec,276.212 kcal,3225.48 m,America/New_York,66.632 degF,11.1829,7700
+2023-11-04 17:44:27 +0000,2023-11-04 18:05:10 +0000,Running,1242.975329,sec,271.475 kcal,3226.85 m,America/New_York,67.64 degF,10.7198,3000
+2023-11-13 18:30:28 +0000,2023-11-13 18:49:27 +0000,Running,1138.578616,sec,280.725 kcal,3224.88 m,America/New_York,59.9 degF,11.8155,4600
+2023-11-20 21:51:08 +0000,2023-11-20 22:11:11 +0000,Running,1203.251801,sec,276.195 kcal,3227 m,America/New_York,58.676 degF,11.138,4900
+2023-11-27 17:58:26 +0000,2023-11-27 18:21:29 +0000,Running,1382.79114,sec,350.369 kcal,3095.93 m,America/New_York,53.15 degF,12.1419,4800
+2023-12-04 21:55:10 +0000,2023-12-04 22:15:14 +0000,Running,1203.609157,sec,289.513 kcal,3226.6 m,America/New_York,59.288 degF,11.6149,5400
+2023-12-05 22:11:16 +0000,2023-12-05 22:29:14 +0000,Running,1078.563028,sec,281.123 kcal,3205.42 m,America/New_York,55.418 degF,12.5255,5400
+2023-12-15 18:01:01 +0000,2023-12-15 18:27:43 +0000,Running,1602.85754,sec,458.19 kcal,4921.07 m,America/New_York,54.806 degF,13.5451,4100
+2023-12-16 23:53:54 +0000,2023-12-17 00:21:32 +0000,Running,1657.817007,sec,477.591 kcal,5050.23 m,America/New_York,52.898 degF,13.6073,7000
+2023-12-17 21:16:34 +0000,2023-12-17 21:44:53 +0000,Running,1699.085071,sec,486.275 kcal,5037.7 m,America/New_York,66.65 degF,13.5837,9000
+2023-12-19 21:23:17 +0000,2023-12-19 21:51:47 +0000,Running,1710.501569,sec,474.918 kcal,5033.02 m,America/New_York,44.222 degF,13.0931,5200
+2023-12-21 20:06:57 +0000,2023-12-21 20:37:56 +0000,Running,1859.106296,sec,522.978 kcal,5511.16 m,America/New_York,54.752 degF,13.1066,4300
+2023-12-22 20:48:13 +0000,2023-12-22 21:23:35 +0000,Running,2121.848767,sec,590.922 kcal,6498.29 m,America/New_York,54.554 degF,13.2174,5500
+2023-12-23 21:33:12 +0000,2023-12-23 22:00:54 +0000,Running,1662.122485,sec,453.555 kcal,5347.88 m,America/New_York,56.48 degF,12.98,5700
+2023-12-24 20:31:37 +0000,2023-12-24 20:46:34 +0000,Running,897.642792,sec,243.831 kcal,2764.11 m,America/New_York,63.464 degF,12.9942,6200
+2023-12-26 17:30:31 +0000,2023-12-26 17:59:10 +0000,Running,1719.365071,sec,471.776 kcal,5044.9 m,America/New_York,,13.0336,
+2023-12-27 18:41:56 +0000,2023-12-27 19:09:45 +0000,Running,1668.218624,sec,460.011 kcal,5059.38 m,America/New_York,65.12 degF,13.1037,9000
+2023-12-27 19:12:36 +0000,2023-12-27 19:16:14 +0000,Running,217.933926,sec,60.4108 kcal,734.012 m,America/New_York,65.39 degF,13.2433,8900
+2023-12-28 21:03:13 +0000,2023-12-28 21:17:37 +0000,Running,864.072677,sec,234.213 kcal,2897.32 m,America/New_York,56.75 degF,12.943,6600
+2023-12-31 18:42:14 +0000,2023-12-31 18:56:19 +0000,Running,844.615809,sec,141.385 kcal,1679.36 m,America/New_York,47.516 degF,8.45809,6200
+2023-12-31 19:45:49 +0000,2023-12-31 19:52:07 +0000,Running,377.930802,sec,85.3732 kcal,1067.22 m,America/New_York,48.38 degF,10.7017,6100
+2024-01-02 20:23:04 +0000,2024-01-02 20:38:55 +0000,Running,950.650555,sec,251.745 kcal,2344.94 m,America/New_York,49.658 degF,12.6618,5100
+2024-01-12 21:31:36 +0000,2024-01-12 21:57:33 +0000,Running,1556.709014,sec,403.506 kcal,3420.28 m,America/New_York,56.948 degF,12.3629,7000
+2024-01-20 00:24:31 +0000,2024-01-20 00:38:41 +0000,Running,850.4532716,sec,74.3774 kcal,924.835 m,America/New_York,35.312 degF,,5000
+2024-02-06 18:58:47 +0000,2024-02-06 19:19:03 +0000,Running,1215.195084,sec,294.15 kcal,3234.35 m,America/New_York,50.036 degF,11.6652,4000
+2024-02-11 22:40:32 +0000,2024-02-11 22:50:22 +0000,Running,589.832386,sec,39.4154 kcal,227.423 m,America/New_York,58.91 degF,4.06423,9200
+2024-03-27 23:34:34 +0000,2024-03-28 00:02:41 +0000,Running,1686.882219,sec,468.311 kcal,3653.55 m,America/New_York,51.98 degF,13.1991,9900
+2024-03-30 20:53:02 +0000,2024-03-30 21:08:56 +0000,Running,954.034081,sec,219.913 kcal,2416.67 m,America/New_York,,11.1705,
+2024-07-09 14:46:51 +0000,2024-07-09 15:09:18 +0000,Running,1346.637113,sec,290.595 kcal,3218.77 m,America/New_York,85.568 degF,10.5279,7300
+2024-08-21 18:26:52 +0000,2024-08-21 18:35:23 +0000,Running,510.2240369,sec,139.651 kcal,1567.59 m,America/New_York,75.038 degF,13.121,5000
+2024-09-03 22:44:15 +0000,2024-09-03 23:04:13 +0000,Running,1197.711248,sec,265.477 kcal,2998.77 m,America/New_York,72.932 degF,10.7181,6200
+2024-09-10 22:38:34 +0000,2024-09-10 22:56:11 +0000,Running,1056.982628,sec,281.166 kcal,2897.3 m,America/New_York,77.144 degF,12.6997,5900
+2024-09-12 13:51:52 +0000,2024-09-12 14:06:51 +0000,Running,898.4862731,sec,239.751 kcal,2450.05 m,America/New_York,67.928 degF,12.7319,7900
+2024-09-17 22:43:24 +0000,2024-09-17 23:01:08 +0000,Running,1041.914975,sec,278.917 kcal,2879.69 m,America/New_York,75.524 degF,12.5643,8600
+2024-09-24 22:46:06 +0000,2024-09-24 23:05:18 +0000,Running,1151.616819,sec,304.677 kcal,3077.99 m,America/New_York,76.19 degF,12.6009,8800
+2024-10-08 22:44:07 +0000,2024-10-08 23:03:53 +0000,Running,1186.363877,sec,303.916 kcal,3074.45 m,America/New_York,65.39 degF,12.3094,6300
+2024-10-23 22:17:53 +0000,2024-10-23 22:36:02 +0000,Running,1089.204161,sec,262.969 kcal,2787.14 m,America/New_York,70.988 degF,11.6036,5800
+2024-10-28 22:15:47 +0000,2024-10-28 22:35:23 +0000,Running,1176.488744,sec,319.486 kcal,3356.81 m,America/New_York,62.132 degF,12.9671,6700
+2024-10-29 21:52:44 +0000,2024-10-29 22:14:22 +0000,Running,1297.9072,sec,294.793 kcal,3078.87 m,America/New_York,68.072 degF,10.9686,6700
+2024-10-30 22:17:45 +0000,2024-10-30 22:28:15 +0000,Running,629.887504,sec,162.978 kcal,1640.4 m,America/New_York,73.058 degF,12.4238,6900
+2024-11-05 22:13:43 +0000,2024-11-05 22:32:33 +0000,Running,1130.482008,sec,300.247 kcal,3046.05 m,America/New_York,72.734 degF,12.6428,6600
+2024-11-12 22:14:08 +0000,2024-11-12 22:32:59 +0000,Running,1130.859522,sec,297.615 kcal,3077.47 m,America/New_York,60.404 degF,12.6059,5700

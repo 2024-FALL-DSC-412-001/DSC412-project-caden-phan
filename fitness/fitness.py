@@ -2,169 +2,205 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error, r2_score
-import warnings
-warnings.filterwarnings('ignore')
+from datetime import datetime
 
-# Note: This is NOT final results, I need better commenting as well as an expanded dataset
-
-
-# Data Loading and Initial Exploration
 def load_and_explore_data(file_path):
-    """
-    Load the fitness tracker dataset and perform initial exploration
-    """
-    print("Loading and exploring data...")
-    df = pd.read_csv(file_path)
-    
-    print("\nFirst few rows of the dataset:")
-    print(df.head())
-    
-    print("\nDataset Info:")
-    print(df.info())
-    
-    print("\nBasic statistics:")
-    print(df.describe())
-    
+    try:
+        # Load the file using pandas with specified encoding
+        df = pd.read_csv(file_path, encoding='latin1')
+        print(f"Data loaded successfully, number of rows: {len(df)}")
+        
+        # Check for missing values in each column
+        print("Missing values in each column:")
+        print(df.isnull().sum())
+        
+        # Convert 'startDate' and 'endDate' to datetime format, handling errors gracefully
+        df['startDate'] = pd.to_datetime(df['startDate'], errors='coerce')
+        df['endDate'] = pd.to_datetime(df['endDate'], errors='coerce')
+        
+        # Verify if conversion was successful
+        if df['startDate'].isnull().any():
+            print("Some 'startDate' values could not be converted to datetime.")
+        
+        # Create new features from 'startDate' for analysis
+        df['hour'] = df['startDate'].dt.hour
+        df['month'] = df['startDate'].dt.month
+        df['day_of_week'] = df['startDate'].dt.dayofweek
+        
+        # Convert 'duration' to numeric, handling non-numeric values
+        df['duration'] = pd.to_numeric(df['duration'], errors='coerce')
+        df['duration_minutes'] = df['duration'] / 60  # Convert duration to minutes
+
+        # Debug: Check the first few rows for new features
+        print("Columns in DataFrame:", df.columns)
+        print("Preview with 'duration_minutes' column:")
+        print(df[['duration', 'duration_minutes']].head())
+        
+        # Handle missing values in other columns as desired
+        df['totalDistance'] = df['totalDistance'].fillna(0)  # Replace NaNs with 0
+        df['HKWeatherTemperature'] = df['HKWeatherTemperature'].fillna(df['HKWeatherTemperature'].mean())  # Impute with mean
+        
+        return df
+    except FileNotFoundError:
+        print(f"Error: Could not find file at {file_path}")
+        return None
+    except Exception as e:
+        print(f"Error loading data: {e}")
+        return None
+
+def add_duration_minutes(df):
+    # Convert 'duration' from seconds to minutes and add a new column 'duration_minutes'
+    df['duration_minutes'] = df['duration'] / 60
     return df
 
-# Data Preprocessing
-def preprocess_data(df):
-    """
-    Clean and prepare data for analysis
-    """
-    print("\nPreprocessing data...")
+def analyze_calories_vs_duration(df):
+    # Ensure 'duration_minutes' is created
+    df = add_duration_minutes(df)
     
-    # Convert date to datetime
-    df['date'] = pd.to_datetime(df['date'])
+    # Check if the column is created correctly
+    print("Columns in the DataFrame after adding 'duration_minutes':", df.columns)
+    print("First few rows of the DataFrame with 'duration_minutes':\n", df[['duration', 'duration_minutes', 'totalEnergyBurned']].head())
     
-    # Check for missing values
-    print("\nMissing values:")
-    print(df.isnull().sum())
-    
-    # Remove any rows with missing values in our main variables of interest
-    df_clean = df.dropna(subset=['calories_burned', 'sleep_hours', 'steps'])
-    
-    return df_clean
+    # Proceed with the plotting
+    sns.scatterplot(data=df, x='duration_minutes', y='totalEnergyBurned', hue='activityType', alpha=0.6)
+    plt.title('Calories Burned vs. Duration of Workout')
+    plt.xlabel('Duration (minutes)')
+    plt.ylabel('Calories Burned')
+    plt.show()
 
-# Data Analysis and Visualization
-def analyze_data(df):
-    """
-    Perform exploratory data analysis and create visualizations
-    """
-    print("\nPerforming data analysis...")
+def analyze_mets_impact(df):
+    # Ensure 'HKAverageMETs' is numeric and handle errors
+    df['HKAverageMETs'] = pd.to_numeric(df['HKAverageMETs'], errors='coerce')
     
-    # Create correlation matrix
-    correlation_matrix = df[['calories_burned', 'sleep_hours', 'steps', 'active_minutes', 'heart_rate_avg']].corr()
+    # Drop rows with NaN values in 'HKAverageMETs' or 'totalEnergyBurned'
+    df_clean = df.dropna(subset=['HKAverageMETs', 'totalEnergyBurned'])
+
+    plt.figure(figsize=(12, 6))
+    scatter = sns.scatterplot(data=df_clean, x='HKAverageMETs', y='totalEnergyBurned', hue='activityType', alpha=0.6)
     
-    # Plot correlation heatmap
-    plt.figure(figsize=(10, 8))
-    sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0)
-    plt.title('Correlation Matrix of Fitness Variables')
+    # Initialize a list to keep track of the labels for the legend
+    legend_labels = []
+    
+    # Fit a line for each activity type with an explicit label for the legend
+    for activity in df_clean['activityType'].unique():
+        activity_data = df_clean[df_clean['activityType'] == activity]
+        z = np.polyfit(activity_data['HKAverageMETs'], activity_data['totalEnergyBurned'], 1)
+        p = np.poly1d(z)
+        line, = plt.plot(activity_data['HKAverageMETs'], p(activity_data['HKAverageMETs']), linestyle='--', alpha=0.8)
+        # Add the activity type as a label for the line and store it
+        legend_labels.append(line)
+        line.set_label(f'Trend line for {activity}')
+    
+    plt.title('Calories Burned vs. Average METs')
+    plt.xlabel('Average METs')
+    plt.ylabel('Calories Burned')
+    # Pass the list of labeled lines explicitly to the legend
+    plt.legend(handles=legend_labels, title='Activity Type and Trend Lines')
+    plt.show()
+
+def analyze_weather_impact(df):
+    # Create a copy to avoid modifying original data
+    df_plot = df.copy()
+    
+    # Clean temperature data by removing 'degF' and converting to numeric
+    df_plot['HKWeatherTemperature'] = df_plot['HKWeatherTemperature'].str.replace(' degF', '').astype(float)
+    
+    # Create the visualization
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 6))
+    
+    # First plot - Temperature vs Calories
+    sns.scatterplot(data=df_plot, x='HKWeatherTemperature', y='totalEnergyBurned', 
+                   hue='activityType', ax=ax1, alpha=0.6)
+    ax1.set_title('Temperature vs. Calories Burned')
+    ax1.set_xlabel('Temperature (°F)')
+    ax1.set_ylabel('Calories Burned')
+    
+    # Calculate reasonable tick positions for temperature
+    temp_min = df_plot['HKWeatherTemperature'].min()
+    temp_max = df_plot['HKWeatherTemperature'].max()
+    # Create 5 evenly spaced ticks
+    temp_ticks = np.linspace(temp_min, temp_max, 5)
+    ax1.set_xticks(temp_ticks)
+    # Format ticks to show no decimal places
+    ax1.set_xticklabels([f'{x:.0f}' for x in temp_ticks])
+    
+    # Second plot - Humidity vs Calories
+    sns.scatterplot(data=df_plot, x='HKWeatherHumidity', y='totalEnergyBurned', 
+                   hue='activityType', ax=ax2, alpha=0.6)
+    ax2.set_title('Humidity vs. Calories Burned')
+    ax2.set_xlabel('Humidity (%)')
+    ax2.set_ylabel('Calories Burned')
+    
+    # Adjust layout
     plt.tight_layout()
     plt.show()
-    
-    # Scatter plot: Calories Burned vs Sleep Hours
-    plt.figure(figsize=(10, 6))
-    sns.scatterplot(data=df, x='calories_burned', y='sleep_hours', alpha=0.5)
-    plt.title('Relationship between Calories Burned and Sleep Hours')
-    plt.xlabel('Calories Burned')
-    plt.ylabel('Sleep Hours')
-    plt.show()
-    
-    # Distribution plots
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 5))
-    
-    sns.histplot(data=df, x='calories_burned', bins=30, ax=ax1)
-    ax1.set_title('Distribution of Calories Burned')
-    
-    sns.histplot(data=df, x='sleep_hours', bins=30, ax=ax2)
-    ax2.set_title('Distribution of Sleep Hours')
-    
-    plt.tight_layout()
-    plt.show()
-    
-    # Additional analysis: Sleep patterns by mood
-    plt.figure(figsize=(10, 6))
-    sns.boxplot(data=df, x='mood', y='sleep_hours')
-    plt.title('Sleep Hours Distribution by Mood')
+
+def analyze_time_of_day(df):
+    # Ensure 'startDate' is in datetime format and extract the hour
+    if 'hour' not in df.columns:
+        df['startDate'] = pd.to_datetime(df['startDate'], errors='coerce')  # Convert 'startDate' to datetime if needed
+        df['hour'] = df['startDate'].dt.hour  # Extract the hour
+
+    # Create time categories based on the 'hour' column
+    df['time_category'] = pd.cut(df['hour'], bins=[0, 6, 12, 18, 24], labels=['Night (0-6)', 'Morning (6-12)', 'Afternoon (12-18)', 'Evening (18-24)'])
+
+    # Plot the calories burned by time of day
+    plt.figure(figsize=(12, 6))
+    sns.boxplot(data=df, x='time_category', y='totalEnergyBurned', hue='activityType')
+    plt.title('Calories Burned by Time of Day')
+    plt.xlabel('Time of Day')
+    plt.ylabel('Calories Burned')
     plt.xticks(rotation=45)
+    plt.legend(title='Activity Type')
+    plt.tight_layout()
     plt.show()
-    
-    return correlation_matrix
 
-# Model Training and Evaluation
-def train_model(df):
-    """
-    Train and evaluate linear regression model
-    """
-    print("\nTraining linear regression model...")
+def analyze_workout_consistency(df):
+    # Ensure 'month' exists before grouping by checking and adding it if necessary
+    if 'month' not in df.columns:
+        df['month'] = df['startDate'].dt.month
+
+    monthly_workouts = df.groupby(['month', 'activityType']).size().unstack(fill_value=0)
     
-    # Prepare features and target
-    X = df[['calories_burned']]
-    y = df['sleep_hours']
-    
-    # Split the data
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=0.2, random_state=42
-    )
-    
-    # Train the model
-    model = LinearRegression()
-    model.fit(X_train, y_train)
-    
-    # Make predictions
-    y_pred = model.predict(X_test)
-    
-    # Calculate metrics
-    mse = mean_squared_error(y_test, y_pred)
-    r2 = r2_score(y_test, y_pred)
-    
-    print("\nModel Performance:")
-    print(f"Mean Squared Error: {mse:.4f}")
-    print(f"R-squared Score: {r2:.4f}")
-    print(f"Coefficient (slope): {model.coef_[0]:.4f}")
-    print(f"Intercept: {model.intercept_:.4f}")
-    
-    # Visualization of the regression line
-    plt.figure(figsize=(10, 6))
-    plt.scatter(X_test, y_test, color='blue', alpha=0.5, label='Actual Data')
-    plt.plot(X_test, y_pred, color='red', label='Regression Line')
-    plt.xlabel('Calories Burned')
-    plt.ylabel('Sleep Hours')
-    plt.title('Linear Regression: Calories Burned vs Sleep Hours')
-    plt.legend()
+    # Plot directly using monthly_workouts.plot() without plt.figure()
+    ax = monthly_workouts.plot(kind='bar', stacked=True, figsize=(12, 6))
+    ax.set_title('Workout Frequency by Month')
+    ax.set_xlabel('Month')
+    ax.set_ylabel('Number of Workouts')
+    ax.legend(title='Activity Type')
+    plt.tight_layout()
     plt.show()
-    
-    return model, mse, r2
 
 def main():
-    """
-    Main function to run the analysis
-    """
-    # Replace with your actual file path
-    file_path = "fitness_tracker_dataset.csv"
+    # Load the data (assuming it's already loaded correctly)
+    df = pd.read_csv('health.csv')  # Replace with your actual file path if needed
+
+    print(f"Data loaded successfully, number of rows: {len(df)}")
     
-    # Load and explore data
-    df = load_and_explore_data(file_path)
-    
-    # Preprocess data
-    df_clean = preprocess_data(df)
-    
-    # Analyze data
-    correlation_matrix = analyze_data(df_clean)
-    
-    # Train and evaluate model
-    model, mse, r2 = train_model(df_clean)
-    
-    # Additional insights
-    print("\nKey Findings:")
-    print("1. Correlation between calories burned and sleep hours:", 
-          correlation_matrix.loc['calories_burned', 'sleep_hours'].round(4))
-    print("2. Average sleep hours:", df_clean['sleep_hours'].mean().round(2))
-    print("3. Average calories burned:", df_clean['calories_burned'].mean().round(2))
+    # Check for missing values
+    print("\nMissing values in each column:")
+    print(df.isnull().sum())
+
+    # Clean 'totalEnergyBurned' by removing the 'kcal' unit and converting to numeric
+    df['totalEnergyBurned'] = df['totalEnergyBurned'].str.replace(' kcal', '', regex=False).astype(float)
+
+    # Basic statistics
+    print("\nBasic Statistics:")
+
+    # Workout Counts by Activity Type
+    print("\nWorkout Counts by Activity Type:")
+    print(df['activityType'].value_counts())
+
+    # Average Calories Burned by Activity Type
+    print("\nAverage Calories Burned by Activity Type:")
+    print(df.groupby('activityType')['totalEnergyBurned'].mean())
+ 
+    # Run the various analyses
+    analyze_calories_vs_duration(df)
+    analyze_mets_impact(df)
+    analyze_weather_impact(df)
+    analyze_time_of_day(df)
+    analyze_workout_consistency(df)
 
 if __name__ == "__main__":
     main()

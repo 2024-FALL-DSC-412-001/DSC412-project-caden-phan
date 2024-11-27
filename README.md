@@ -1,5 +1,16 @@
 ## Overview
-Analysis of fitness tracking data to understand relationships between calories burned, sleep patterns, and physical activity.
+Project Overview
+This fitness analytics project goes beyond traditional workout tracking by uncovering 
+data-driven insights into personal health and exercise performance. By leveraging 
+sophisticated data analysis techniques, we transform raw Apple Watch health data into 
+a comprehensive understanding of how various factors intersect to influence fitness outcomes.
+
+Analysis provides insights into:
+
+- Optimal workout timing and intensity
+- Environmental impacts on exercise performance
+- Personalized energy expenditure patterns
+- Workout consistency and progression
 
 ## Setup
 
@@ -14,7 +25,8 @@ pip install -r requirements.txt
 python fitness.py
 
 ## Data Source
-Using fitness tracker dataset from Kaggle: https://www.kaggle.com/datasets/arnavsmayan/fitness-tracker-dataset/data
+Using personal Apple Watch data, stored in health.csv
+
 
 ## File Structure
 - fitness_analysis.py: Main analysis script
